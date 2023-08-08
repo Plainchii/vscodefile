@@ -3,6 +3,9 @@
 - js,css,html  
 - java,python
 
+VSCode+PicGo+Github搭建免费Markdown图床
+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
+
 - 操作系统 计算机网络 计算机组成原理 编译原理
 
 Surfingkeys、vim、vim c， vimium，vimium c， Vim 和 Emacs刷题：PATbasic level，学完数据结构advanced level。牛客网 ，剑指offer，leetcode降维打击：直接数据类型学枯燥，从算法了解调用函数，结构体再倒回来看非常轻松学习路线：
