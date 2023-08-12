@@ -316,3 +316,43 @@ See the section on [`code`](#code).
 - [x] Write the press release  
 - [ ] Update the website  
 - [ ] Contact the media  
+
+---
+
+## 数学表达式
+
+
+### 格式
+```
+use $\sqrt{3x-1}+(1+x)^2$ or $`\sqrt{3x-1}+(1+x)^2`$(当正在编写的表达式包含与 markdown 语法重叠的字符)
+```
+use $\sqrt{3x-1}+(1+x)^2$ or $`\sqrt{3x-1}+(1+x)^2`$(当正在编写的表达式包含与 markdown 语法重叠的字符)
+
+
+```
+**The Cauchy-Schwarz Inequality**
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+or
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```()
+
+```
+
+**The Cauchy-Schwarz Inequality**
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+or
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
+
+全Markdown公式、符号总结
