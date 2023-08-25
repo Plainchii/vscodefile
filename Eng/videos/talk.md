@@ -11,6 +11,19 @@
 [English Vocabulary: How To Talk About Driving In English
 ](https://youtu.be/NBIb1Ltz0CY)
 >actions.
+#### horel  
+[Let's Learn English at a Hotel!](https://youtu.be/MYX7RVOf3Yc?si=R3q1OEuoGOUZXygV)
+
+[Travel English: Going to a hotel ](https://youtu.be/y4rVYbfbhcE?si=_CBLEk9Dt6ZF27Bq)
+
+#### restaurant
+
+##### fast food
+[How to order fast food in English!](https://youtu.be/E7p4LO7H-L8)
+
+[How To Order Food In English At A Restaurant Drive-Thru](https://youtu.be/M7BWHPtV1qM)
+
+
 
 [Billionaire English! Learn to Talk about the Rich and Famous!](https://youtu.be/HOTFS_U5g98)
 >live,car,motorcycle,jet,boat,chef,

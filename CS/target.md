@@ -3,6 +3,7 @@
 - js,css,html  
 - java,python
 
+家妈，都2023年了，口没拿塞，哎呀，
 VSCode+PicGo+Github搭建免费Markdown图床
 ghp_OPxQcGO（mi）YQZfWytCzm（yao）PLFQgwkCWRlv83rswMO
 
