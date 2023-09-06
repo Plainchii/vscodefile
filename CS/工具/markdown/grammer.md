@@ -7,10 +7,6 @@
 ### A third-level heading  
 ```  
 
-# A first-level heading  
-## A second-level heading  
-### A third-level heading  
-
 ---
 
 ## 段落  
@@ -316,6 +312,34 @@ See the section on [`code`](#code).
 - [x] Write the press release  
 - [ ] Update the website  
 - [ ] Contact the media  
+
+---
+
+## 跳转
+
+标记处：
+<a href ="#id"> 跳转文首</a>
+跳转至此处：
+<div id="id"></div>
+
+
+相对路径
+../ 表示当前目录上一级
+
+./ 表示当前目录
+
+### 直接跳转
+[x](绝对路径)
+
+### 同级跳转
+相同文件夹下的文件之间相互跳转
+[下一章](./C2.md) 	//C1.md
+[上一章](./C1.md)  //C2.md
+
+### 向下跳转
+[content](/content)
+[第一章](/content/C1.md)
+
 
 ---
 

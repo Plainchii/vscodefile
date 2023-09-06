@@ -1,12 +1,21 @@
-## selective task  
+## selective task 
+- c 
 - 二级,c++  
-- js,css,html  
+- js,css,html 
+- markdown 
 - java,python
 - matlab,android,app,
+模电，数电
+
+pyautogui，
+WPE，OD，CE
 
 
 家妈，都2023年了，口没拿塞，哎呀，
+
 VSCode+PicGo+Github搭建免费Markdown图床
+vscode+markdown
+
 ghp_OPxQcGO（mi）YQZfWytCzm（yao）PLFQgwkCWRlv83rswMO
 
 - 操作系统 计算机网络 计算机组成原理 编译原理
