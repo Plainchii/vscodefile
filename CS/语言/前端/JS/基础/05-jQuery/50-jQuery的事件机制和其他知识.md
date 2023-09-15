@@ -1,9 +1,3 @@
----
-title: 50-jQuery的事件机制和其他知识
----
-
-<ArticleTopAd></ArticleTopAd>
-
 
 
 

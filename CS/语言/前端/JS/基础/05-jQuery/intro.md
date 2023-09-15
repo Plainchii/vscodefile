@@ -1,39 +1,6 @@
----
-title: 47-jQuery的介绍和选择器
----
+# jQuery
 
-<ArticleTopAd></ArticleTopAd>
-
-
-
-
-
-
-
-
-## jQuery 的介绍
-
-### 引入 jQuery 的原因
-
-在用 js 写代码时，会遇到一些问题：
-
-- window.onload 事件有事件覆盖的问题，因此只能写一个事件。
-
-- 代码容错性差。
-
-- 浏览器兼容性问题。
-
-- 书写很繁琐，代码量多。
-
-- 代码很乱，各个页面到处都是。
-
-- 动画效果很难实现。
-
-如下图所示：
-
-![](http://img.smyhvae.com/20180204_1710.png)
-
-jQuery的出现，可以解决以上问题。
+## intro
 
 ### 什么是 jQuery
 
@@ -41,7 +8,6 @@ jQuery 是 js 的一个库，封装了我们开发过程中常用的一些功能
 
 js库是把我们常用的功能放到一个单独的文件中，我们用的时候，直接引用到页面里即可。
 
-以下是jQuery的相关信息：
 
 - 官网：<http://jquery.com/>
 
@@ -134,17 +100,9 @@ js库是把我们常用的功能放到一个单独的文件中，我们用的时
 
 通常情况下，只有设置操作才能把链式编程延续下去。因为获取操作的时候，会返回获取到的相应的值，无法返回 this。
 
-
 （2）**隐式迭代**：隐式 对应的是 显式。隐式迭代的意思是：在方法的内部会为匹配到的所有元素进行循环遍历，执行相应的方法；而不用我们再进行循环，简化我们的操作，方便我们调用。
 
 如果获取的是多元素的值，大部分情况下返回的是第一个元素的值。
-
-
-
-
-
-
-## jQuery 的使用
 
 ### 使用 jQuery 的基本步骤
 
@@ -183,14 +141,12 @@ PS：开发版本一般用1.10以上。
 
 - 平时开发过程中，可以使用任意一个版本；但是，项目上线的时候，推荐使用压缩版。
 
-
-## jQuery 的入口函数和 `$` 符号
+## 入口函数和`$`
 
 
 ### 入口函数（重要）
 
 原生 js 的入口函数指的是：`window.onload = function() {};` 如下：
-
 ```javascript
         //原生 js 的入口函数。页面上所有内容加载完毕，才执行。
         //不仅要等文本加载完毕，而且要等图片也要加载完毕，才执行函数。
@@ -198,8 +154,6 @@ PS：开发版本一般用1.10以上。
            alert(1);
        }
 ```
-
-
 而 jQuery的入口函数，有以下几种写法：
 
 写法一：
@@ -277,7 +231,7 @@ jQuery占用了我们两个变量：`$` 和 jQuery。当我们在代码中打印
 **`$` 实际上表示的是一个函数名** 如下：
 
 
-```html
+```js
 	$(); // 调用上面我们自定义的函数$
 
 	$(document）.ready(function(){}); // 调用入口函数
@@ -294,127 +248,8 @@ jQuery占用了我们两个变量：`$` 和 jQuery。当我们在代码中打印
 
 jQuery这个js库，除了` $` 之外，还提供了另外一个函数：jQuery。jQuery函数跟 `$` 函数的关系：`jQuery === $`。
 
-##  js中的DOM对象 和 jQuery对象 比较（重点，难点）
 
-### 二者的区别
-
-通过 jQuery 获取的元素是一个**数组**，数组中包含着原生JS中的DOM对象。举例：
-
-针对下面这样一个div结构：
-
-```html
-<div></div>
-<div class="box"></div>
-<div id="box"></div>
-<div class="box"></div>
-<div></div>
-```
-
-通过原生 js 获取这些元素节点的方式是：
-
-```javascript
-    var myBox = document.getElementById("box");           //通过 id 获取单个元素
-    var boxArr = document.getElementsByClassName("box");  //通过 class 获取的是数组
-    var divArr = document.getElementsByTagName("div");    //通过标签获取的是数组
-```
-
-通过 jQuery 获取这些元素节点的方式是：（获取的都是数组）
-
-```javascript
-    //获取的是数组，里面包含着原生 JS 中的DOM对象。
-    var jqBox1 = $("#box");
-    var jqBox2 = $(".box");
-    var jqBox3 = $("div");
-```
-
-我们打印出来看看：
-
-![](http://img.smyhvae.com/20180204_2045.png)
-
-上图显示，由于JQuery 自带了 css()方法，我们还可以直接在代码中给 div 设置 css 属性。
-
-**总结**：jQuery 就是把 DOM 对象重新包装了一下，让其具有了 jQuery 方法。
-
-### 二者的相互转换
-
-**1、 DOM 对象 转为 jQuery对象**：
-
-```javascript
-	$(js对象);
-```
-
-举例：（拿上一段的代码举例）
-
-```javascript
-	//转换。
-	jqBox1 = $(myBox);
-	jqBox2 = $(boxArr);
-	jqBox3 = $(divArr);
-```
-
-DOM 对象转换成了 jquery 对象之后，上面的功能可以直接调用。
-
-**2、jQuery对象 转为 DOM 对象**：
-
-```javascript
-	jquery对象[index];      //方式1（推荐）
-
-	jquery对象.get(index);  //方式2
-```
-
-jQuery对象转换成了 DOM 对象之后，可以直接调用 DOM 提供的一些功能。如：
-
-```javascript
-    //jquery对象转换成 DOM 对象之后
-    jqBox3[0].style.backgroundColor = "black";
-    jqBox3.get(4).style.backgroundColor = "pink";
-```
-
-**总结**：如果想要用哪种方式设置属性或方法，必须转换成该类型。
-
-### 举例：隔行变色
-
-代码如下：
-
-```html
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title></title>
-    <script src="jquery-1.11.1.js"></script>
-    <script>
-        //入口函数
-        jQuery(function () {
-            var jqLi = $("li");
-            for (var i = 0; i < jqLi.length; i++) {
-                if (i % 2 === 0) {
-                    //jquery对象，转换成了js对象
-                    jqLi[i].style.backgroundColor = "pink";
-                } else {
-                    jqLi[i].style.backgroundColor = "yellow";
-                }
-            }
-        });
-    </script>
-</head>
-<body>
-<ul>
-    <li>生命壹号，永不止步</li>
-    <li>生命壹号，永不止步</li>
-    <li>生命壹号，永不止步</li>
-    <li>生命壹号，永不止步</li>
-    <li>生命壹号，永不止步</li>
-    <li>生命壹号，永不止步</li>
-    <li>生命壹号，永不止步</li>
-</ul>
-</body>
-</html>
-```
-
-效果如下：
-
-![](http://img.smyhvae.com/20180204_2111.png)
+---
 
 ## jQuery 选择器
 
@@ -422,7 +257,7 @@ jQuery对象转换成了 DOM 对象之后，可以直接调用 DOM 提供的一�
 
 ![](http://img.smyhvae.com/20180204_2122.png)
 
-今天来学习一下jQuery 选择器。
+
 
 jQuery选择器是jQuery强大的体现，它提供了一组方法，让我们更加方便的获取到页面中的元素。
 
@@ -448,9 +283,9 @@ jQuery选择器是jQuery强大的体现，它提供了一组方法，让我们�
         jQuery(document).ready(function () {
 
             //三种方式获取jquery对象
-            var jqBox1 = $("#box");
-            var jqBox2 = $(".box");
-            var jqBox3 = $("div");
+            var jqBox1 = $("#box");//id
+            var jqBox2 = $(".box");//class
+            var jqBox3 = $("div");//标签
 
             //操作标签选择器
             jqBox3.css("width", 100);
@@ -541,37 +376,6 @@ jQuery选择器是jQuery强大的体现，它提供了一组方法，让我们�
 
 ![](http://img.smyhvae.com/20180204_2151.png)
 
-举例：
-
-```html
-    <script src="jquery-1.11.1.js"></script>
-    <script>
-        $(document).ready(function () {
-
-            // :odd
-            $("li:odd").css("background", "red");
-
-            // :even
-            $("li:even").css("background", "green");
-
-            // :eq(index)
-            $("ul li:eq(3)").css("font-size", "30px");  //设置第四个li的字体
-
-            // :lt(index)
-            $("li:lt(6)").css("font-size", "30px");
-
-            // :gt(index)
-            $(".ulList1 li:gt(7)").css("font-size", "40px");
-
-            // :first
-            $(".ulList li:first").css("font-size", "40px");
-
-            // :last
-            $("li:last").css("font-size", "40px");
-        });
-    </script>
-```
-
 ### 4、属性选择器
 
 ![](http://img.smyhvae.com/20180204_2155.png)
@@ -642,6 +446,84 @@ jQuery选择器是jQuery强大的体现，它提供了一组方法，让我们�
 效果：
 
 ![](http://img.smyhvae.com/20180204_2203.png)
+
+## DOM对象和jQuery对象比较
+
+### 二者的区别
+
+通过 jQuery 获取的元素是一个**数组**，数组中包含着原生JS中的DOM对象。举例：
+
+针对下面这样一个div结构：
+
+```html
+<div></div>
+<div class="box"></div>
+<div id="box"></div>
+<div class="box"></div>
+<div></div>
+```
+
+通过原生 js 获取这些元素节点的方式是：
+
+```javascript
+    var myBox = document.getElementById("box");           //通过 id 获取单个元素
+    var boxArr = document.getElementsByClassName("box");  //通过 class 获取的是数组
+    var divArr = document.getElementsByTagName("div");    //通过标签获取的是数组
+```
+
+通过 jQuery 获取这些元素节点的方式是：（获取的都是数组）
+
+```javascript
+    //获取的是数组，里面包含着原生 JS 中的DOM对象。
+    var jqBox1 = $("#box");
+    var jqBox2 = $(".box");
+    var jqBox3 = $("div");
+```
+
+我们打印出来看看：
+
+![](http://img.smyhvae.com/20180204_2045.png)
+
+上图显示，由于JQuery 自带了 css()方法，我们还可以直接在代码中给 div 设置 css 属性。
+
+**总结**：jQuery 就是把 DOM 对象重新包装了一下，让其具有了 jQuery 方法。
+
+### 二者的相互转换
+
+**1、 DOM 对象 转为 jQuery对象**：
+
+```javascript
+	$(js对象);
+```
+
+举例：（拿上一段的代码举例）
+
+```javascript
+	//转换。
+	jqBox1 = $(myBox);
+	jqBox2 = $(boxArr);
+	jqBox3 = $(divArr);
+```
+
+DOM 对象转换成了 jquery 对象之后，上面的功能可以直接调用。
+
+**2、jQuery对象 转为 DOM 对象**：
+
+```javascript
+	jquery对象[index];      //方式1（推荐）
+
+	jquery对象.get(index);  //方式2
+```
+
+jQuery对象转换成了 DOM 对象之后，可以直接调用 DOM 提供的一些功能。如：
+
+```javascript
+    //jquery对象转换成 DOM 对象之后
+    jqBox3[0].style.backgroundColor = "black";
+    jqBox3.get(4).style.backgroundColor = "pink";
+```
+
+**总结**：如果想要用哪种方式设置属性或方法，必须转换成该类型。
 
 
 ## 举例
@@ -1160,20 +1042,3 @@ jQuery选择器是jQuery强大的体现，它提供了一组方法，让我们�
 效果：
 
 ![](http://img.smyhvae.com/20180205_1135.gif)
-
-~工程文件~：
-
-- [2018-02-05-淘宝精品服饰广告.rar]()
-
-- 下载链接暂无。
-
-
-
-
-## 我的公众号
-
-想学习<font color=#0000ff>**更多技能**</font>？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/2016040102.jpg)

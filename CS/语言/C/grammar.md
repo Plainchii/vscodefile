@@ -6,6 +6,13 @@
  
 void*可以指向任何类型的数据。
  
+
+### 类型转换
+
+#### 自动类型转换
+float f = 100;
+![r](D:/gitphoto/134S535R-0.png)
+average = (double) sum / count
  
  
 return(char)('a' + x);

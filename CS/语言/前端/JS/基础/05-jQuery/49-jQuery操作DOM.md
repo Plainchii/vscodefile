@@ -1,21 +1,3 @@
----
-title: 49-jQuery操作DOM
----
-
-<ArticleTopAd></ArticleTopAd>
-
-
-
-
-
-## 文本主要内容
-
-
-
-- 样式和类操作
-
-- 节点操作
-
 
 ## 样式操作和类操作
 
@@ -23,22 +5,17 @@ title: 49-jQuery操作DOM
 
 ### 样式操作
 
-**1、设置样式：**
+**1、设置样式**
 
 ```javascript
-
     //设置单个样式：  css(属性，值);
     $("div").css("background-color","red");
 
     //设置多个样式：  css(json);
 	 $("div").css({"width":100,"height":100,"background-color":"pink"});
-
-
-
 ```
 
-
-**2、获取样式：**
+**2、获取样式**
 
 ```javascript
     //获取样式：css(属性);
@@ -74,7 +51,6 @@ title: 49-jQuery操作DOM
 ```javascript
 	$(selector).hasClass("liItem");   //判断指定元素是否包含类 className
 ```
-
 此时，会返回true或false。jquery对象中，只要有一个带有指定类名的就是true，所有都不带才是false。
 
 举例：
@@ -112,7 +88,6 @@ title: 49-jQuery操作DOM
                 //判断类
                 alert($("div").hasClass("current"));
             });
-            //alert($("div").hasClass("current"));//jquery对象中只要有一个带有类名的就是true，所有都不带才是false。
         })
     </script>
 </head>

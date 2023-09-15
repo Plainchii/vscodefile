@@ -1,0 +1,68 @@
+
+
+### 模拟点击
+```js
+//html
+<button id="btn" onclick="click()">按钮</button>
+//js
+btn.onclick=function(){
+alert('按钮被点击了')
+}
+//jq
+$('#btn').click(function(){
+alert('按钮被点击了')
+});
+```
+
+如果是js监听事件的方法,我们可以先用'document.querySelector'找到btn元素,然后执行'btn.click()'.这是比较推荐的方法.当然除了'document.querySelector'外还可以用jQuery,document.getElementByXXX之类的方法,只要能够找到并操作DOM元素就行了.(个人习惯querySelector,后续也使用querySelector来编写)
+```
+var btn=document.querySelector('#btn');
+btn.click();
+```
+
+表单填写
+关于表单填写也就是form,我们需要自动化的实现在input,checkbox,select等元素中填写或者选择我们希望的内容,例如自动选择正确答案和自动填写账号.其实也很简单,我们只需要使用querySelector查到我们想操作的元素就行了.
+
+```
+操作某个输入框:
+var input=document.querySelector('#input');
+input.value="油猴中文网";
+操作多选框:
+var checkbox=document.querySelector('#checkbox');
+checkbox.checked=true;
+```
+
+
+## 使用自动化登录论坛
+打开论坛首页时,检测是否登录,如果未登录就自动填写配置好的账号密码进行登录,并且勾上自动登录选项
+
+### 第一步,判断是否登录
+- 在未登录的时候,我们的上方是一个登录框框,而不是用户的信息,那么我们可以查找上方是否有编辑框来判断是否是登录状态.(当然还有其它的很多办法)
+
+- 按下F12打开开发者工具,选中用户这个框可,可以看见他有一个id和一些其它信息,id一般是这个页面唯一的,那么我们可以直接使用id来查询它,来看看它在不在这个页面上,在就表示没有登录.
+
+- 第二步,我们要将我们的账号信息填入进去,并且勾上自动登录选项
+和上面的一样,使用f12开发者工具,找到用户名编辑框,密码编辑框,自动登录多选框.然后填入value和checked设置为true.
+
+- 最后一步,点击登录按钮,就可以啦!
+但是发现好像这个按钮没有id,没关系,我们可以使用它的上级class和type等信息来定位
+
+```js
+document.querySelector(".comiis_dlq a").click()
+let time=setInterval(()=>{
+
+    if(document.querySelector('[id="comiis_key"]')!==null){
+            clearInterval(time)//清除计时
+    }
+
+    if(document.querySelector('[name="username"]')==null){
+        return//没有找到表示登录了,不再执行后续代码
+    }
+
+    document.querySelector('[name="username"]').value='1527800815@qq.com'
+    document.querySelector('[name="password"]').value='000'
+    document.querySelector('[name="loginsubmit"]').click()
+    clearInterval(time)
+},1000
+)
+```
