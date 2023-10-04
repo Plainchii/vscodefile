@@ -4,6 +4,7 @@
 ### @match
 - @match https://www.baidu.com，表示在百度这个网址下运行。
 - @match https://\*//* 表示在所有 https 下的网站都可以运行。
+- https://*.taobao.com/*
 
 ### @require 
 - // @require D:\document\1.js

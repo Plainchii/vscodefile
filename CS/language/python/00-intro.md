@@ -596,8 +596,6 @@ for a in "abcde" :
 
 
 
-
-
 # python函数
 > 函数是一段代码，只有在被调用时才会运行。
 > 您可以将数据（称为参数）传递给函数。
@@ -1362,13 +1360,12 @@ print(x)
 
 + `except`块允许您处理错误。
 
+except Exception as e://e异常实例
+        print("Exception :", e)
+
 + `else`块允许您在没有错误时执行代码。
 
 + `finally`块允许您执行代码，而不管 try- 和 except 块的结果如何。
-
-
-
-未定义notX,但是使用它 
 
 ```python
 In [134]: try:
@@ -1380,12 +1377,8 @@ In [134]: try:
 ```
 
 由于 try 块引发错误，因此将执行 except 块。
-
 如果没有 try 块，程序将崩溃并引发错误
 
-
-
-`else`如果没有引发错误，您可以使用关键字定义要执行的代码块：
 
 ```python
 In [135]: try:   
@@ -1407,8 +1400,6 @@ In [136]: try:
      ...:
 Something went wrong
 ```
-
-如果指定了该`finally`块，则无论 try 块是否引发错误，都将执行该块。
 
 ```python
 In [138]: try:
