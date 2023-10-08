@@ -14,11 +14,7 @@
 // @match             *://m.v.qq.com/*
 // @match             *://*.tudou.com/*
 // @match             *://*.mgtv.com/*
-// @match             *://tv.sohu.com/*
-// @match             *://film.sohu.com/*
-// @match             *://*.1905.com/*
 // @match             *://*.bilibili.com/*
-// @match             *://*.pptv.com/*
 // @license           GPL License
 // @grant             unsafeWindow
 // @grant             GM_openInTab
@@ -36,10 +32,8 @@
 (function () {
     'use strict';
     var $ = $ || window.$;
-    var log_count = 1;
     var host = location.host;
     var parseInterfaceList = [];
-    var selectedInterfaceList = [];
     var originalInterfaceList = [
         {title:"综合/B站",type:"1",url:"https://jx.jsonplayer.com/player/?url="},
         {title:"M1907",type:"1",url:"https://z1.im1907.top/?&jx="},
@@ -61,7 +55,6 @@
         {title:"YT",type:"1",url:"https://jx.yangtu.top/?url="},
         {title:"JY",type:"1",url:"https://jx.playerjy.com/?url="},
         {title:'JY解析',type:"1",url:'https://jx.we-vip.com/?url=',},
-        {title:"⑸号解析",type:"1",url:"https://www.8090g.cn/jiexi/?url="},
         {title:"8090g",type:"1",url:"https://www.8090g.cn/?url="},
         {title:"人人解析",type:"1",url:"https://vip.mpos.ren/v/?url="},
         {title:"ckmov",type:"1",url:"https://www.ckmov.com/?url="},
@@ -79,17 +72,10 @@
         //------------------------------------------------------------------------------
         {title:"M1907",type:"0",url:"https://z1.im1907.top/?jx="},
         {title:"yparse",type:"0",url:"https://jx.yparse.com/index.php?url="},
-        {type:"0",url:"http://vip.wandhi.com/?v=",title:"玩的嗨"},
-
+        {title:"玩的嗨",type:"0",url:"http://vip.wandhi.com/?v="},
     ];
 
-    //自定义 log 函数
-    function mylog(param1, param2) {
-        param1 = param1 ? param1 : "";
-        param2 = param2 ? param2 : "";
-        console.log("#" + log_count++ + "-VIP-log:", param1, param2);
-    }
-
+   
     //内嵌页内播放
     function innerParse(url) {
         $("#iframe-player").attr("src", url);
@@ -185,37 +171,37 @@
     }
 
     GMaddStyle(`
-                #vip_movie_box {cursor:pointer; position:fixed; top:` + top + `px; right:0px; width:33px; z-index:99999; font-size:12px; text-align:left;}
+                #Button1 {cursor:pointer; position:fixed; top:` + top + `px; right:0px; width:33px; z-index:99999; font-size:12px; text-align:left;}
 
 
-                #vip_movie_box .selected_text {width:32px; padding:4px 0px; text-align:center; background-color:#FF4500;}
-		        #vip_movie_box .selected_text img {width:22px; height:22px;display:inline-block; vertical-align:middle;}
+                #Button1 .select_on {width:32px; padding:4px 0px; text-align:center; background-color:#fffff;}
+		        #Button1 .select_on img {width:22px; height:22px;display:inline-block; vertical-align:middle;}
 
 
-                #vip_movie_box .vip_mod_box_selected {width:320px; max-height:450px;display:none; position:absolute; right:33px; top:0; text-align:center; backdrop-filter: saturate(1) blur(15px); background: rgba(255, 255, 255, 0.2); border:1px solid gray; overflow-y: auto;}
+                #Button1 .open-background {width:320px; max-height:450px;display:none; position:absolute; right:33px; top:0; text-align:center; backdrop-filter: saturate(1) blur(15px); background: rgba(135,206,250, 0.6); border:1px solid gray; overflow-y: auto;}
 
 
-                #vip_movie_box .vip_mod_box_selected ul{list-style: none; margin:10px 10px;}
-                #vip_movie_box .vip_mod_box_selected li{font-size:12px; color:#FFFFFF; text-align:center; width:calc(36% - 14px); line-height:21px; float:left; padding:4px 4px; margin:3px 3px;background: rgba(0,0,0,0.6);border-radius:2px;box-sizing:border-box;}
-                #vip_movie_box .vip_mod_box_selected li:hover{color:#FFFFFF; background-color:#FF4500;}
+                #Button1 .open-background ul{list-style: none; margin:10px 10px;}
+                #Button1 .open-background li{font-size:12px; color:#FFFFFF; text-align:center; width:calc(36% - 14px); line-height:21px; float:left; padding:4px 4px; margin:3px 3px;background: rgba(0,0,0,0.6);border-radius:2px;box-sizing:border-box;}
+                #Button1 .open-background li:hover{color:#FFFFFF; background-color:#FF4500;}
 
 
-		        #vip_movie_box .vip_mod_box_selected::-webkit-scrollbar{width:5px; height:1px;}
-                #vip_movie_box .vip_mod_box_selected::-webkit-scrollbar-thumb{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.2); background:#A8A8A8;}
-                #vip_movie_box .vip_mod_box_selected::-webkit-scrollbar-track{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.2); background:#F1F1F1;}
+		        #Button1 .open-background::-webkit-scrollbar{width:5px; height:1px;}
+                #Button1 .open-background::-webkit-scrollbar-thumb{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.2); background:#A8A8A8;}
+                #Button1 .open-background::-webkit-scrollbar-track{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.2); background:#F1F1F1;}
 
 
-                #vip_movie_box .vip_mod_box_selected .selected{color:#FFFFFF; background-color:#FF4500;}
+                #Button1 .open-background .selected{color:#FFFFFF; background-color:#FF4500;}
 
 
-                #vip_movie_box .img_text {width:32px; text-align:center; padding:3px 0px; background-color:#FF4500; margin:1px 0px;}`);
+                #Button1 .img_text {width:32px; text-align:center; padding:3px 0px; background-color:#FF4500; margin:1px 0px;}`);
 
    
 
-    var html = $(`<div id='vip_movie_box'>
-                    <div class='selected_text' >
+    var html = $(`<div id='Button1'>
+                    <div class='select_on' >
                        <img src='`+ sImgBase64 +`' title='视频解析'/>
-                       <div class='vip_mod_box_selected' >
+                       <div class='open-background' >
                            <div>
                              <div style='font-size:16px; font-weight:bold; text-align:center; color:#ffffff;  line-height:21px; margin-top:10px;'>页内解析</div>
                              <ul>
@@ -232,17 +218,18 @@
                            </div>
                        </div>
                     </div>
-                    <div class="img_text"><div class="vip_auto" style="color:white; font-size:20px; font-weight:bold; line-height:23px; " title="自动解析开关">${autoPlay}</div></div>
-                 </div>`);
+                 </div>`
+                    );
+//最后一个div前面为select自动播放处
 
     $("body").append(html);
 
 
     //视频解析事件处理
-        $(".selected_text").on("mouseover", () => $(".vip_mod_box_selected").show());
-        $(".selected_text").on("mouseout", () => $(".vip_mod_box_selected").hide());
+        $(".select_on").on("mouseover", () => $(".open-background").show());
+        $(".select_on").on("mouseout", () => $(".open-background").hide());
 
-    $(".vip_mod_box_selected li").each((index, item) => {
+    $(".open-background li").each((index, item) => {
         item.addEventListener("click", function(){
             if (parseInterfaceList[index].type == "1") {
                 $(this).siblings().removeClass("selected");
@@ -280,7 +267,7 @@
     function autoPlayer() {
         if (!!GM_getValue("autoPlayerKey_" + host, null)) {
             var index = GM_getValue("autoPlayerValue_" + host, 2);
-            $(".vip_mod_box_selected li").eq(index).addClass("selected");
+            $(".open-background li").eq(index).addClass("selected");
             $(".vip_auto").attr("title", `当前解析源：${parseInterfaceList[index].title}`);
             setTimeout(function () {
                 if (document.getElementById("iframe-player") == null) {

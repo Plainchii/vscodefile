@@ -1,11 +1,3 @@
----
-title: 16-内置对象：Number和Math
----
-
-<ArticleTopAd></ArticleTopAd>
-
-
-
 
 ## 内置对象 Number 的常见方法
 
