@@ -8,3 +8,12 @@ When in Rome, do as Romans do.
 
 ### 
 HIV（human immunodeficiency virus）免疫缺陷
+IQ(intelligence quotient)
+
+the European Union欧盟
+
+
+Analects论语
+The Book of changes易经
+
+Mencius孟子

@@ -29,6 +29,8 @@
 4.特殊结构 - 并列（省略）/倒装/强调/比较
 5.宾补- driving me mad
 
+invariably
+
 
 词in spite of
 

@@ -4,7 +4,7 @@ get on board同意。。who i am dealing with我在和谁打交道。bully for y
 
 ### 专有词组
 
-中美贸易战 China/Sino - US trade war/dispute/friction/row争端（set off the row）。。videoconference （teaching 线上教学）视频会议 = virtual classrooms = cyberspace 网络 = online instruction  。。brick - and - mortar campuses 实体教室，线下教学= conventional classes = real-world campuses。。clean-energy jobs 清洁能源工作。。home appliances家用电器/road rage路怒症/。。墙头草fence sitter
+中美贸易战 China/Sino - US trade war/dispute/friction/row争端（set off the row）。。videoconference （teaching 线上教学）视频会议 = virtual classrooms = cyberspace 网络 = online instruction  。。brick - and - mortar campuses 实体教室，线下教学= conventional classes = real-world campuses。。clean-energy jobs 清洁能源工作。。home appliances家用电器/road rage路怒症/。。墙头草fence sitter/labour union工会/silicon chip硅片
 
 每况愈下turn from bad to worse。。性情很好nice in temperament。。kissed by fortune。。Flags hang at half-mast
 
