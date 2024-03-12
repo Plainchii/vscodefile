@@ -1,0 +1,7 @@
+aicheck.cc，querycee.com,
+Claude文笔比chatgpt好多了，
+一级信息差:chatgpt用来写水文章
+次级:gptzero能查是不是chatgpt写的，很多大学已经用上了
+三级:有一个网站可用来自动做paraphrase过zero
+再一级:有个叫futuretools的网站可查各种有意思的这类东西
+五级:有个油管博主的视频对那个网站的内容还做过评测，他得出里面最强的几个

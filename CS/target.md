@@ -1,50 +1,66 @@
 ## selective task
 - 编程，调试，应用部署，数据维护，收集反馈，编码标准，代码审查，源代码控制，构建过程，测试，操作，软件开发生命周期，
-  
+
+业务逻辑，业务需求，与技术融合
 ### 基础开发
 - c，c++
 - 编译原理
 
 ### 数学，物理
 - 模电，数电，线代，概率论
+- 
+### 操作系统
+- Linux 基本 API 和机制
+- 平台，服务器管理
+
+- android,app,Harmony,
+- 
+- 小程序
+
+### 计算机网络
+- 网络协议，TCP，HTTP，
+- vpn
+
+### 计算机组成原理
+
+### 算法与数据结构
 
 ### 前端
-- js,css,html，php，node，
-- react，vue
+- js,css,html，php，
+- 构建后端程序node.js
+- 框架react，vue3
 - 库httml5,jquery,echarts
 - 构建工具sass,gulp,
 - 框架ElementUI,Ant-Design
 - web网页，论坛运营，浏览器，
 
 ### 后端
-- java,rust，go
-- springboot,mybatis,
+- java,rust,go，python
+- springboot,
 - 中间件Redis，RocketMQ，
-- 分布式，多线程，jvm,大并发，内存模型
+- 多线程，jvm虚拟机,大并发，内存模型
 
-- python
 - pyautogui，
 
-### 操作系统
-- Linux 基本 API 和机制
-- 平台，服务器管理
+### 开发集成
+- Springcloud分布式系统微服务框架
+- Spring框架
+- Maven项目管理工具
 
-- android,app,
-- 
-- 小程序
-
-### 网络
-- 网络协议，TCP，HTTP，
-- vpn
-
-### 计算机组成原理 
+### 硬件
+- ARM单片机
 
 ### 数据库
-- 数据库SQL，PostgreSQL,oracle
-
+- 关系型：SQL,PostgreSQL,oracle,mysql
+- 键值对型：Redis，
+- 简化管理：mybatis,
 ### 大数据
-- spark，hadoop
+- 数据处理spark，
+- hadoop，Hive，
 
+### 消息队列
+- RabbitMQ
+- 
 ### 机器学习
 - 传统机器学习深度学习
 - 自然语言处理，预训练语言模型
@@ -56,6 +72,9 @@
 
 ### 云
 云平台Azure，AliCloud，
+
+### 平台
+- java：J2ee，
 
 ### 工具
 版本管理：svn，git
@@ -118,6 +137,23 @@ boss,智联，猎聘，前程，实习僧，牛客，
 hulu，NVIDIA，西门子，amazon，谷歌，苹果，
 
 南京的外企Citrix
+
+
+## 简历
+怎么写，模板
+适当夸大
+	基础{
+			个人信息：姓名，性别，政治面貌，出生年月，籍贯，健康状况，学历专业学校，邮箱，电话，证件照；
+			目标岗位，醒目突出
+			社团活动，校内外实践，实习经验
+			职业技能：四六级证书，雅思托福，计算机二级，驾照c1，office，pspr，ai，
+			所获荣誉：三等奖学金
+			个人评价：
+	}
+	计算机{
+			比赛，项目，开发经验，工作经验
+
+	}
 
 ## 面试
 面试：做题，技术面，口语面，算法面，通识面，数学， 现场编程，反问面试官，
