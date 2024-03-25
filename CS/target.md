@@ -2,6 +2,8 @@
 - 编程，调试，应用部署，数据维护，收集反馈，编码标准，代码审查，源代码控制，构建过程，测试，操作，软件开发生命周期，
 
 业务逻辑，业务需求，与技术融合
+
+人际关系拓展
 ### 基础开发
 - c，c++
 - 编译原理
@@ -23,7 +25,9 @@
 
 ### 计算机组成原理
 
-### 算法与数据结构
+### 算法
+
+### 数据结构
 
 ### 前端
 - js,css,html，php，
@@ -54,13 +58,14 @@
 - 关系型：SQL,PostgreSQL,oracle,mysql
 - 键值对型：Redis，
 - 简化管理：mybatis,
+- 
 ### 大数据
 - 数据处理spark，
 - hadoop，Hive，
 
 ### 消息队列
 - RabbitMQ
-- 
+
 ### 机器学习
 - 传统机器学习深度学习
 - 自然语言处理，预训练语言模型
@@ -95,8 +100,32 @@ markdown
 虚拟化：docker，kubernetes，
 容器，容器虚拟化，容器编排，apache，nginx
 
+### 刷题
+- PATbasic level，牛客网 ，剑指offer，leetcode
 
-- 刷题：PATbasic level，牛客网 ，剑指offer，leetcode
+###	share
+- tutorial
+- guide
+- perspective
+- answer to question
+- project
+- open source
+- blog
+
+- teasers
+- videos
+- announcement
+
+
+linkedin,x,discord,github,tiktok,tiktok,youtube,
+cassidy williams
+
+engage in:
+- comment
+- reply
+- communities
+
+### 
 - matlab
 - ps,ai,
 
@@ -156,7 +185,7 @@ hulu，NVIDIA，西门子，amazon，谷歌，苹果，
 	}
 
 ## 面试
-面试：做题，技术面，口语面，算法面，通识面，数学， 现场编程，反问面试官，
+面试：做题，技术面，口语面，算法面，通识面，数学， 现场编程，反问面试官，线上面试
 力扣中等，
 知识深，体系，全面
 	{

@@ -1,3 +1,5 @@
+
+
 ##
 
 发散，类比，联想，话题延伸，举一反三
@@ -6,10 +8,10 @@
 
 
 ### 材料评论作文
-1利用材料词组句式主旨
+1利用材料词组句式主·旨
 2大纲：1如材料所示，点题主旨大意。2内涵，原因（举例）3总结
-16m应用文：书信，电子邮件，通知，备忘录，
-32m短文：规定情境，提纲式，漫画
+应用文：书信，电子邮件，通知，备忘录，
+短文：规定情境，提纲式，漫画
 正确性（词汇，语法），地道性（搭配，语境The belt and road initiative），简洁，
 
 作文：五句话作文
@@ -21,9 +23,7 @@
 拓展   that   要求
 
 
-contend that A is 
-A may seem like 
-proponents of A argue that
+
 
 
 多个动作用非谓语，
@@ -39,11 +39,11 @@ in spite of
 
 ###
 英一图画，英二图表，应用文，
-六级：图画，名言哲理，提纲
+六级：图画，名言哲理，提纲，议论文图表谚语
 ## 形式
 
 ### 六级
-议论文图表谚语
+
 
 拓展：影响
 
@@ -52,15 +52,37 @@ in spite of
     
         With regard to/how to/ whether XXX, viewpoints vary considerably/ substantially/ vastly/ enormously.
 
-    2.中心论点ifelse
+    2.提出中心论点
+    
+    ifelse
     现象解释：what,why,importance
     {
 
         }
-观点选择：whether,choice,option
-{
-    In the modern era/In the world we live in today, XXX has become increasingly important. 
-    
+
+
+### 观点选择
+
+
+1.认为
+持有观点:
+    hold/maintain/deem/argue/allege/assert + that
+    harbor the view/notification/assertion/allegation/perspective/contention/standpoint that
+认为:consider/rate/view/see A as B
+    for my part,from my perspective
+I have the confidence that//I firmly contend that//I take the attitude that
+
+it is a/an adj. n. to do/that {
+    adj.:widely-accepted,universally-shared,widely-acknowledged
+    n.:view,truth,belief,fact
+}
+
+主语:people in an increasing/a mounting number越来越多的人认为
+
+It is a widely-accepted truth that citizens,especially the youngsters,should have a strong sense of accountability/liability/duty/obligation.
+
+
+whether,choice,option{
     
     When faced with decision of A or B, quite a few would deem that A XXX, but others, in contrast, believe that B is the premier choice and  that is also my point. 
 
@@ -90,8 +112,11 @@ in spite of
     A significant portion of participants leaned towards A
     Another segment of respondents argued for B,
     Some argue for A,
+    
 
-    Some may argue that A is/seem like the optimal/premier choice
+    A may seem like 
+
+    Some may argue/contend that A is/seem like the optimal/premier choice
     but others/an opposing perspective contends that B holds the upper hand in this decision
 
     opting for B could lead to
@@ -116,8 +141,15 @@ in spite of
 
     城市买房还是郊区买房
     In the context of rapid urbanization,the decision between purchasing a property in the city or the suburbs often sparks debate among wokers.While the proponents of buying a house in the cit y emphasize the advantages of convenient facility ranging from hospital and gymnasium, and entertainment provided by government, proponents of buying a house in the suburbs citing the merit of comfort and 
-
 }
+
+
+
+
+
+
+
+
     问题解决：how to
     {
         There are hidden problems/hazards.
@@ -169,12 +201,17 @@ in spite of
         Last but not least, I firmly believe that XXX.
         ----The more fans you have, the happier you are.
 
-    举例
+    举例 cite examples 
     {
         XXX is a case in point.
         This point is best illustrated by the case of ...
     }
-
+    个人经历
+    personal experience
+议论文中引入第一人称个人亲身经历的论述段落，不要转述，每个段落需要详细
+从报刊，论文，研究，文献，书籍，发言稿里面寻找，要有权威性，不要编出来的短语，
+而且给出中文翻译，回答格式要分点
+    评论
     }
 
 第三段{
@@ -214,6 +251,9 @@ I reiterate my standpoint that ...
 5.An extraordinary and meaningful drawing unfolds before our eyes:完整句子.————一副不一般的而且有意义的图画映入眼帘：XXX。
 
 描述图画，中心事物+描述+引出周围事物+描述
+
+In the modern era/In the world we live in today, XXX has become increasingly important. 
+
 
 
 ### 英音二
@@ -310,22 +350,6 @@ society
 the relevant agency/organization/institution
 
 
-1.认为
-持有观点:
-    hold/maintain/deem/argue/allege/assert + that
-    harbor the view/notification/assertion/allegation/perspective/contention/standpoint that
-认为:consider/rate/view/see A as B
-    for my part,from my perspective
-I have the confidence that//I firmly contend that//I take the attitude that
-
-it is a/an adj. n. to do/that {
-    adj.:widely-accepted,universally-shared,widely-acknowledged
-    n.:view,truth,belief,fact
-}
-
-主语:people in an increasing/a mounting number越来越多的人认为
-
-It is a widely-accepted truth that citizens,especially the youngsters,should have a strong sense of accountability/liability/duty/obligation.
 
 2.应该
 be supposed to, deserve to, be bound to, be obliged to
@@ -357,6 +381,10 @@ be supposed to, deserve to, be bound to, be obliged to
 
 // emphasize the critical need for euilibrium between scholarly pursuits and health均衡
 
+be responsible for原因
+forte
+
+a new batch of students一批新学生
 
 ### 后一
 in terms of efficiency and cost-effctiveness
@@ -403,6 +431,9 @@ What springs from this cartoon is such a scene:
 
 ###
 同位语：
+I, as an advocator of sustainable development, intend to ...
+名人名言 As Bacon, the greatest British philosopher, has put it:"knowledge is power."
+
 感叹句：what an impressive cartoon it is in doing XXX.
 
 倒装句：
@@ -454,6 +485,44 @@ only bia this approach/way/method ...
 XXX is a case in point.
 This point is best illustrated by the case of ...
 
+## topic
+正反
+
+
+个人：意志，技能，学习，自主，阅读，实践，好奇心，健康
+
+传统美德：友善，勤俭节约，诚信，孝敬
+社会主义价值观
+创新
+
+老龄化养老，人口，重男轻女，性别对立，
+同学，老师，网友，
+学习教育{
+    小学大学教育，家庭交流，
+    
+    宿舍打游戏，升学焦虑，学费，
+    课堂，课外活动，考证，科研
+    就业紧张，双休，加班，简历面试，
+    国家教学差异，素质快乐教育，
+}
+网络{
+
+    个人社会国家影响
+    学习
+    网络环境，网络平台，网购，，
+    人群老年人平凡人，
+    科技水平，言论自由，管控，
+}
+
+
+资源浪费，过度包装，
+食品安全
+环境问题，核废水，
+旅游，
+文化差异
+家乡，
+校园
+
 
 
 模板（信）
@@ -501,3 +570,12 @@ see the silver linings behind the cloud
 单刀直入，同义多词，转折明显（1.but/2.while/3.ago/4.fortunately）,抛砖引玉
 These trends may not transform higher education, but they are likely to accelerate the integration of technology into it.
 
+
+
+
+
+Though she might not be so financially well off, she is absolutely rich in kindness and thoughfulness!
+
+the lapse of year时光流逝
+lest
+try every
