@@ -5,29 +5,30 @@
 
 人际关系拓展
 ### 基础开发
-- c，c++
+- c，c++-
 - 编译原理
 
 ### 数学，物理
 - 模电，数电，线代，概率论
-- 
-### 操作系统
-- Linux 基本 API 和机制
-- 平台，服务器管理
 
-- android,app,Harmony,
-- 
-- 小程序
+### 基础
+操作系统OS{
 
-### 计算机网络
-- 网络协议，TCP，HTTP，
-- vpn
+	平台，服务器管理
+	android,app,Harmony,
 
-### 计算机组成原理
+}
+计算机网络CN
+计算机组成原理CO
+算法与数据结构DS
+数据库{
+	关系型：SQL,PostgreSQL,oracle,mysql
+	键值对型：Redis，
+	简化管理：mybatis,
+}
 
-### 算法
+### 软件工程
 
-### 数据结构
 
 ### 前端
 - js,css,html，php，
@@ -54,11 +55,7 @@
 ### 硬件
 - ARM单片机
 
-### 数据库
-- 关系型：SQL,PostgreSQL,oracle,mysql
-- 键值对型：Redis，
-- 简化管理：mybatis,
-- 
+
 ### 大数据
 - 数据处理spark，
 - hadoop，Hive，
