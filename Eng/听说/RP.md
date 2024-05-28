@@ -1,6 +1,8 @@
 
 ## RP
 
+基本发音，特殊发音（bit，beat），音变，爆破
+
 literally，basically，lovely好的，亲，
 
 I'd love/like to..

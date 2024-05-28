@@ -1,5 +1,14 @@
 
+dressed in,sail round航海,way of life,by necessity,in an argument,in touch with,
+
 get on board同意。。who i am dealing with我在和谁打交道。bully for you羡慕，嘲讽
+
+take the tube乘地铁，yuck脏乱，bottom out一蹶不振，personal velet贴身仆人，depravity巢穴，plastic surgery整容手术，
+
+
+语法
+you think satisfying,show the world's first,of to about,
+
 
 
 ### 专有词组

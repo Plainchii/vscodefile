@@ -1,8 +1,14 @@
 
 
+计算机系统
 
+硬件
+软件：系统软件（操作系统，数据库管理系统），应用
 
+冯诺依曼机：以运算器为中心
+现代计算机：以存储器为中心
 
-![](https://raw.githubusercontent.com/Plainchii/myimg/main/12342342%20(1).jpg)
-
-![](https://raw.githubusercontent.com/Plainchii/myimg/main/12342342%20(2).jpg)
+CPU，主存，主机，I/O,
+主存储器：存储体，MAR存储地址寄存器，MDR存储数据寄存器
+存储单元：存储字，存储字长，存储元
+运算器，控制器

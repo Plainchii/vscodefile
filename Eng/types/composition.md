@@ -1,50 +1,137 @@
 
+题目：why it is unwise to jump to conclusions upon seeing or hearing something. You can give examples to illustrate your point
 
-##
+a.给出大纲以及思路50词
+b.写正文：
+英文作文150词；
+拟一个高分题目（控制在10词以内），正文分成三段，第一段2~4句话，第二段4~6句话，第三段2~4句话；
+用上正反结合，举例表达方式；
+用上现在分词/过去分词/非谓语作定语状语，主/宾从that，后置定语，倒装，虚拟，并列，形式主语，各种从句，同位语句子形式;
+用雅思托福考研六级等高级词汇/连接词/词组/复合词/
+c.给出中文翻译
+#
 
-发散，类比，联想，话题延伸，举一反三
-年轻人-老人小孩，环境保护-污染节约气候，
-尽量用句子组成成分表达，而不是单独一句
+## 规划
+看/words
+
+用词练习，句式练习
+
+网课
+
+限时真题
+
+chatgpt
+
+## 要求
 
 
-### 材料评论作文
-1利用材料词组句式主·旨
-2大纲：1如材料所示，点题主旨大意。2内涵，原因（举例）3总结
+正确性地道性：词汇，语法，搭配，
+用词准确，具体
+变化表达，不用同一个词
+突出中心句
+开头3句；中间6句；结尾3句
+10词短句：放段首段尾，首段末端，主旨句，强调，引起
+17词长句：放中间，论述
+
+高阶词汇句型，
+合理框架大纲
+
+
+## tactic
+
+单词语料积累（count=What really counts is）
+
+
+
+
+
+
+
+
+
+# outline
+读题-确定类型-写大纲-套用结构
+
+## 确定类型
 应用文：书信，电子邮件，通知，备忘录，
-短文：规定情境，提纲式，漫画
-正确性（词汇，语法），地道性（搭配，语境The belt and road initiative），简洁，
+规定情境，
+材料评论：利用材料词组句式主旨
 
-作文：五句话作文
-正句反用,类比，
-构造作文结构
-句式：倒装，强调，被动，否定
-结构：主干简洁，定宾靠后，
-插入：主/宾从，a/现在分词/过去分词/非谓语作定语状语
-拓展   that   要求
-
-
-
-
-
-多个动作用非谓语，
-1.n- 名词性结构（to do/ doing）- 名词性从句（主宾表从）
-2.adj- 结构（分词结构 leaves falling from A/介词结构 A in the B/不定式to do ，something to drink/ 形容词结构 a factor critical to A）- 定从
-3.adv- 结构（分词结构 Considering the price, A do/介词结构 A lives in the B/to do .To pass it, A do / 形容词结构 Anxious for a decision, A do）- 状从
-4.特殊结构 - 并列（省略）/倒装/强调/比较
-5.宾补- driving me mad
-
-invariably
-in spite of
-
-
-###
 英一图画，英二图表，应用文，
 六级：图画，名言哲理，提纲，议论文图表谚语
-## 形式
 
+
+
+
+
+
+
+
+
+信
+
+What a nice day , ladies and gentles./Dear and madam.
+
+Hence, I appeal to all of us to...
+
+There is scheduled to hold..., organized by..., which launched on May, exactly from...to...
+
+I'm more than thrilled on hearing/exceedingly overjoyed to ..., which...,
+
+Sincere and delighted, I'm writing to extend my sincere/heartiest/genuiue apology/gratitude to you , which...  be overwhelmingly exhilarated to know that...
+
+your prompt reply to this letter at your earliest convenience will be highly appreciated again.
+
+I would be heartily appreciated if you could take my suggestion into consideration/account
+
+be quite qualified for....
+
+Should you grant me this precious chance, I would appreciate/be obliged it a lot as well as spare no efforts to do...
+
+So as to tackle this problem, some functional suggestions/conductive solutions will be illustrated as follows.
+
+Please feel free to contact me if you have any other troubles/ to further details.
+
+In light of your burning enthusiasm, I'm brimful excitment to invite you to ...
+
+We frankly admit that we were at fault and we are anxious to correct the consequence.
+
+I venture to write to you to complain about...which cause many inconvenience to me at every aspect of my life.
+
+雅思作文
+逻辑（把考官当成小朋友）广告可以操纵人们行为。considering公司想要获取更多利润，so他们想要人们大量购买他们的产品。in order to 实现这个目标，他们are likely to告诉人们买东西可以让他们开心。To make people believe this，他们投放大量重复的刺激性的夸张的广告，将这些他们的产品与更好的更开心的广告联系起来。as a result，人们渐渐take in了这种观念，then买东西让自己开心。For example，中国的脑白金广告……
+
+逻辑推理直白简单，运用连接词连接辅助论证，
+
+## 写大纲
+点题主旨大意-内涵，原因，总结
+
+## 套用结构
+
+Taking a look around , one can find examples with ease.
+Hopefully, the content mentioned above could...
+### 讲原因
+The prime/major contributing factor is that ...
+The second noteworthy reason is that ...
+
+### 讲利弊
+The benefits of XXX are numerous and manifold.
+
+### 讲方法how to do
+only bia this approach/way/method ...
+
+### 举例
+XXX is a case in point.
+This point is best illustrated by the case of ...
+
+### 延长技巧
+背景，状语
+正方结合/举例
+举一反三，cognitive function, memory and concentration.
+反复解释fortifies immune system and acts as a preventative measure against illnesses.
 ### 六级
 
-
+For all the talk of...,A is still rife.....  A is all more potent in the context of...
 拓展：影响
 
 第一段{
@@ -60,26 +147,22 @@ in spite of
 
         }
 
+题目：why it is unwise to jump to conclusions upon seeing or hearing something. You can give examples to illustrate your point
+
+a.给出大纲以及思路50词
+b.写正文：
+英文作文150词；
+拟一个高分题目（控制在10词以内），正文分成三段，第一段2~4句话，第二段4~6句话，第三段2~4句话；
+用上正反结合，举例表达方式；
+用上现在分词/过去分词/非谓语作定语状语，主/宾从that，后置定语，倒装，虚拟，并列，形式主语，各种从句，同位语句子形式;
+用雅思托福考研六级等高级词汇/连接词/词组/复合词/
+c.给出中文翻译
+
 
 ### 观点选择
 
 
-1.认为
-持有观点:
-    hold/maintain/deem/argue/allege/assert + that
-    harbor the view/notification/assertion/allegation/perspective/contention/standpoint that
-认为:consider/rate/view/see A as B
-    for my part,from my perspective
-I have the confidence that//I firmly contend that//I take the attitude that
 
-it is a/an adj. n. to do/that {
-    adj.:widely-accepted,universally-shared,widely-acknowledged
-    n.:view,truth,belief,fact
-}
-
-主语:people in an increasing/a mounting number越来越多的人认为
-
-It is a widely-accepted truth that citizens,especially the youngsters,should have a strong sense of accountability/liability/duty/obligation.
 
 
 whether,choice,option{
@@ -260,49 +343,164 @@ In the modern era/In the world we live in today, XXX has become increasingly imp
 
 As is starkly mirrored/reflected in the image/chart that XXX.It is revealed that XXX.The following reasons can account for this issue.
 
-### 雅思作文
-逻辑（把考官当成小朋友）广告可以操纵人们行为。considering公司想要获取更多利润，so他们想要人们大量购买他们的产品。in order to 实现这个目标，他们are likely to告诉人们买东西可以让他们开心。To make people believe this，他们投放大量重复的刺激性的夸张的广告，将这些他们的产品与更好的更开心的广告联系起来。as a result，人们渐渐take in了这种观念，then买东西让自己开心。For example，中国的脑白金广告……
-
-逻辑推理直白简单，运用连接词连接辅助论证，
 
 
-# tactic
+# content
+句子结构-句式-润色(词/词组/表达)
 
-换词，句式，结构，
 
-单词语料积累（count=What really counts is）
+## 句子结构
+主谓宾
 
-## 
+现在分词/过去分词/非谓语作定语状语
+主/宾从that+具体要求
+多个动作用非谓语，
 
 ### 背景环境
 In the modern era/In the world we live in today
 
-## 词
+### 后置定语
+量词形容词主语后置定语
+[a group of]+[fresh]+[graduates]+[who ...]
+the alignment with current market trends.  
+
+### 后一
+in terms of efficiency and cost-effctiveness
+
+
+### 后二
+in this dicision
+in the context of
+
+## 句式
+把单独的句子凑成大句中的组成成分来表达
+
+结构：主干简洁，定宾靠后，
+
+强调，被动，
+
+正句反用,类比，
+
+As has been ... by..., 
 
 
 
-### 连接词
+### 倒装
+
+young as she is,
+Portrayed in the above drawing is XXX.(XXX is portrayed in the above drawing.)
+
+Were I a boy。were it not for the photo above,
+
+Had it not been for your assistance , I would not have done....
+Never should we ...//only in this way can we_____ .//
+  not until we... do we....
+
+
+### 虚拟
+If I were a boy，If it were not for the photo above,
+
+### 否定
+Despite the fact that...
+
+### 感叹
+what an impressive cartoon it is in doing XXX.
+
+### 并列
+you are not only help in ..., but also gave me numerous instructions.
+
+### 转折
+Though she might not be so financially well off, she is absolutely rich in kindness and thoughfulness!
+
+
+
+
+### It is that
+It's A that the sculpture is about ,who...
+
+
+### 形式主语
+It is so considerate of you to ...
+It is a reward you richly deserve for you.
+it is imperative/indispensable/pivotal for X to
+it is indisputable(不可否认，无需争辩) that__  
+It is a consensus(共识，众所周知)that____
+//There is a great/little likelihood（极有可能） that__ 
+
+### 同位语
+I, as an advocator of sustainable development, intend to ...
+
+### 主从
+
+What springs from this cartoon is such a scene:
+What I want to talk with you is the .
+
+### 引用
+As Bacon, the greatest British philosopher, has put it:"knowledge is power."
+
+### 特殊句式
+
+Nature is to us what water is to fish.
+Those pigs of girls eat so much.
+It is as plain as plain can be.
+It is in/with life as in a journey.
+The oceans (do) not so much divide the world as unite it.
+
+
+
+### 小技巧
+
+
+
+
+
+
+
+## 润色
+
+### 词
+invariably始终
+in spite of
+the lapse of year时光流逝
+ 
+try every
+
+#### 连接词
 // To start/begin with , Nowadays,currently ,primarily
-// besides ，furthermore ， in addition ，what's more ，put another way,subsequently(随后), hence ,consequently（因此）, Accoringly,
+// besides ，furthermore ,in addition ，what's more ，put another way,subsequently(随后), hence ,consequently（因此）, Accoringly,
 // on balance , in brief，in conclusion，eventually, In a nutshell,
-// from my perspective , for instance , apparently , as a matter of fact , mentioned above, conversely ,  
+
+
+
+// from my perspective , for instance , apparently , as a matter of fact , mentioned above, conversely ,  while ,
 // concerning , plus，regarding , as well as , 
 
+
+
+
+// lest
 // providing只要，如果 You can ···，providing I can···.
 // namely（ 也就是；即是；换句话说Among the ancients there was one who acted on this principle, namely king Wu.）
 
 
 
-### 高级替换词
+#### 高级替换词
 // perservance , fortitude ,  demerit , contention观点，
+
+
 // promising, charming,
 // awful,disastrous,detrimental,hazardous
-// diverse , divergent , cordial , precisely , crucial , severe , definitely  ,immense , tremendous ,numerous，
-//  actually ,intimately紧密，非常，solely唯一，仅仅，faithfully ,while , undeniably ,
+// diverse , divergent ,  precisely , crucial , severe , definitely  ,immense , tremendous ,numerous，
+
+
+//  actually ,intimately紧密，非常，solely唯一，仅仅，faithfully , undeniably ,
 // absolutely ,virtually事实上，几乎，utterly完全，
+
+
+
 // alter改变
  
-### 连字符
+#### 连字符
 
 **复合名词**
 名词-名词：booby-trap,chat-room,air-vrew;
@@ -326,16 +524,40 @@ In the modern era/In the world we live in today
 **复合动词**
 名词-名词：booby-trap,ice-skate,belly-dance;
 
-
-
-
 wide-spread, 
 
 
 
-### 词汇升级
+#### 词组短语
+// As far as I am concerned,From my perspective/standpoint, In my opinion
 
-benefits/advantages/
+
+// 因为 as a consequence = in consequence= because// as a consequence of = in consequence of= because of 
+// ranging from A to B 
+
+
+// a host of, a myriad of,
+
+a majority of,a large proportion of,a large number of,a large part of,
+a new batch of students一批新学生,
+
+
+
+// take advantage of // make combined efforts // exert a tremendous fascination on // indulge (oneself) in // have divergent attitude towards it // as good as // adopt measures to do // to the maximum extent // be confronted/faced with // be besieged with letters/demands 困扰//subscribe to 同意//derive benefit from technique 得到，获得//
+
+//  spare no efforts/expense/pains/trouble to do something/(in) doing 不惜代价，尽力
+
+be responsible for原因
+
+
+
+### 表达/词汇升级
+
+
+
+not only___but also___. 
+
+benefits/advantages/forte
 
 
 **人物**
@@ -351,141 +573,53 @@ the relevant agency/organization/institution
 
 
 
+
+重要
+cordial ,
+// XXX holds paramount significance for XXX重要
+
+作用
+// exist significant impact on xx , attach significance to
+
+
+1.认为
+持有观点:
+    hold/maintain/deem/argue/allege/assert + that
+    harbor the view/notification/assertion/allegation/perspective/contention/standpoint that
+认为:
+    consider/rate/view/see A as B
+    for my part,from my perspective
+I have the confidence that//I firmly contend that//I take the attitude that
+
+it is a/an adj. n. to do/that {
+    adj.:widely-accepted,universally-shared,widely-acknowledged
+    n.:view,truth,belief,fact
+}
+
+主语:people in an increasing/a mounting number越来越多的人认为
+
+It is a widely-accepted truth that citizens,especially the youngsters,should have a strong sense of accountability/liability/duty/obligation.
+
 2.应该
 be supposed to, deserve to, be bound to, be obliged to
 
 
 
-
-
 擅长excel in/ be expert in/ be sophisticated at/ have a good command of
 
-## 短语
-// As far as I am concerned,From my perspective/standpoint, In my opinion
-
-
-// 因为 as a consequence = in consequence= because// as a consequence of = in consequence of= because of 
-// ranging from A to B 
-
-// be of consequence,
-// a host of, a myriad of,
-
-// XXX holds paramount significance for XXX重要
-
-// take advantage of // make combined efforts // exert a tremendous fascination on // indulge (oneself) in // have divergent attitude towards it // as good as // adopt measures to do // to the maximum extent // be confronted/faced with // be besieged with letters/demands 困扰//subscribe to 同意//derive benefit from technique 得到，获得//
-
-//  spare no efforts/expense/pains/trouble to do something/(in) doing 不惜代价，尽力
-// exist significant impact on xx , attach significance to
+emphasize the critical need for euilibrium between scholarly pursuits and health均衡
+reciprocate your favor,
+乐观：see the silver linings behind the cloud
+讨论：exchange opinions with you.
 
 
 
-// emphasize the critical need for euilibrium between scholarly pursuits and health均衡
-
-be responsible for原因
-forte
-
-a new batch of students一批新学生
-
-### 后一
-in terms of efficiency and cost-effctiveness
-
-
-### 后二
-in this dicision
-in the context of
 
 
 
-## 主体
-
-### 附加
-the alignment with current market trends.  
 
 
-## 语态
-
-### 定语
-
-后置定语： 量词形容词主语后置定语
-[a group of]+[fresh]+[graduates]+[who ...]
-
-### 形式主语
-it is imperative/indispensable/pivotal for X to
-it is indisputable(不可否认，无需争辩) that__  
-It is a consensus(共识，众所周知)that____
-//There is a great/little likelihood（极有可能） that__ 
-
-### 虚拟
-If I were a boy，If it were not for the photo above,
-
-同位语
-## 句式
-
-### 从句
-主语从句
-
-What springs from this cartoon is such a scene:
-//What I want to talk with you is the .
-
-
-
-###
-同位语：
-I, as an advocator of sustainable development, intend to ...
-名人名言 As Bacon, the greatest British philosopher, has put it:"knowledge is power."
-
-感叹句：what an impressive cartoon it is in doing XXX.
-
-倒装句：
-Were I a boy
-young as she is,
-were it not for the photo above,
-Portrayed in the above drawing is XXX.(XXX is portrayed in the above drawing.)
-Never should we ...//only in this way can we_____ .//  not until we... do we....
-
-### 特殊句式
-
-Nature is to us what water is to fish.
-Those pigs of girls eat so much.
-It is as plain as plain can be.
-It is in/with life as in a journey.
-The oceans (do) not so much divide the world as unite it.
-
-
-
-## 
-
-延长技巧
-背景，状语
-正方结合/举例
-举一反三，cognitive function, memory and concentration.
-反复解释fortifies immune system and acts as a preventative measure against illnesses.
-
-## 逻辑框架，构思
-
-
-not only___but also___.  
-Despite the fact that...
-It's A that the sculpture is about ,who...
-
-
-## 模板
-
-### 讲原因
-The prime/major contributing factor is that ...
-The second noteworthy reason is that ...
-
-### 讲利弊
-The benefits of XXX are numerous and manifold.
-
-### 讲方法how to do
-only bia this approach/way/method ...
-
-### 举例
-XXX is a case in point.
-This point is best illustrated by the case of ...
-
-## topic
+### topic
 正反
 
 
@@ -523,59 +657,6 @@ This point is best illustrated by the case of ...
 家乡，
 校园
 
-
-
-模板（信）
-Taking a look around , one can find examples with ease.
-What a nice day , ladies and gentles./Dear and madam.
-Hence, I appeal to all of us to...
-
-There is scheduled to hold..., organized by..., which launched on May, exactly from...to...
-I'm more than thrilled on hearing/exceedingly overjoyed to ..., which...,
-Sincere and delighted, I'm writing to extend my sincere/heartiest/genuiue apology/gratitude to you , which...  be overwhelmingly exhilarated to know that...
-
-your prompt reply to this letter at your earliest convenience will be highly appreciated again.
-I would be heartily appreciated if you could take my suggestion into consideration/account
-
-be quite qualified for....
-Should you grant me this precious chance, I would appreciate/be obliged it a lot as well as spare no efforts to do...
-
-So as to tackle this problem, some functional suggestions/conductive solutions will be illustrated as follows.
-Please feel free to contact me if you have any other troubles/ to further details.
-Hopefully, the content mentioned above could...
-
-As has been ... by..., 
-For all the talk of...,A is still rife.....  A is all more potent in the context of...
-
- In light of your burning enthusiasm, I'm brimful excitment to invite you to ...
-
- We frankly admit that we were at fault and we are anxious to correct the consequence.
-
-Iventure to write to you to complain about...which cause many inconvenience to me at every aspect of my life.
-
-It is a reward you richly deserve for you.
-It is so considerate of you to ...
-
-reciprocate your favor,
-you are not only help in ..., but also gave me numerous instructions.
-Had it not been for your assistance , Iwould not have done....
-
-讨论：
-exchange opinions with you.
-
-乐观：
-see the silver linings behind the cloud
-
-刊：
-单刀直入，同义多词，转折明显（1.but/2.while/3.ago/4.fortunately）,抛砖引玉
-These trends may not transform higher education, but they are likely to accelerate the integration of technology into it.
-
-
-
-
-
-Though she might not be so financially well off, she is absolutely rich in kindness and thoughfulness!
-
-the lapse of year时光流逝
-lest
-try every
+### 话题延伸
+发散，类比，联想，话题延伸，举一反三
+年轻人-老人小孩，环境保护-污染节约气候，

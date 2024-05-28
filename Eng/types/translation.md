@@ -1,4 +1,9 @@
+#   
+六级，考研，catti，大英赛
 
+
+
+联系上下文：不知所云的词语
 
 # intro
 直译，意译，增译，略译，
@@ -58,6 +63,9 @@ plateau高原，total area总面积，square kilometers平方公里，the fourth
 Man-made人工 	the world has ever seen世界上 	stretch from to 北起南至 	be hailed as誉为	 throughout在 launched建于 	the 4th century bc/ the 13th century ad公元前／后 	developed into hubs枢纽中心 	through the ages长久以来  	prominent重要		personnel exchanges人员往来		water conservancy system水利系统		droughty干旱  	be formed with组成	 	rainwater雨水 snowmelt积雪融水 	 drains it to引至 slope坡度   ecological生态    embody体现   human civilization人类文明  is hugely popular among 、adored by、it enjoys深受喜爱   is native to产自    takes on a darker color颜色较深   主谓（which is）different from不同   weight loss减肥   recovery from fatigue消除疲劳   title称号   growing number越来越多   ranges in price from costly to cheap   is an excellent source富含   delay aging延缓衰老    allay tiredness减轻疲劳   
 
 
+
+### 翻译
+tourism off-season旅游淡季，pre-cooked food 预制菜，meal kits 料理包，food additives 食品添加剂，the 24 solar terms二十四节气，academic misconduct 学术不端，refute the rumor 辟谣，deadlock 僵局，epicenter震中，targeted poverty alleviation 精准扶贫，river snails rice noodle螺蛳粉，socialism with Chinese characteristics 中国特色社会主义，civil servant 公务员，population aging 人口老龄化，get in=enroll=be admitted to 上岸，carbon peak 碳达峰，carbon neutrality 碳中和，ethnic minorities 少数民族，We-media自媒体，urbanization城市化，Chinese Zodiac十二生肖，face recognition人脸识别，e-currency 电子货币，green car新能源汽车，Chinese character汉字，postgraduate研究生，high-speed railway 高铁，sustainable development可持续发展，employment rate就业率，national defense国防，new normal新常态，people's livelihood民生，40 years of reform and opening up改革开放四十周年，the Chinese Dream中国梦，a community with shared future for humanity人类命运共同体，the Belt and Road Initiative一带一路，low-carbon cities低碳城市，craftsmanship spirit工匠精神，digital economy数字经济，Gross Domestic Product国内生产总值，cashless payment无现金支付，give a like点赞，face scan payment扫脸支付，live streaming直播，intangible cultural heritage非物质文化遗产，hunger marketing饥饿营销，left-behind children留守儿童，extracurricular classes课外班，fresh graduate应届生，
 
 ## 高频考点
 **之一**
@@ -127,7 +135,11 @@ Since the installation of cable cars in 1990s, the number of visitors has increa
 ——自上世纪90年代以来，参观人数大大增加
 
 
-
+1.n- 名词性结构（to do/ doing）- 名词性从句（主宾表从）
+2.adj- 结构（分词结构 leaves falling from A/介词结构 A in the B/不定式to do ，something to drink/ 形容词结构 a factor critical to A）- 定从
+3.adv- 结构（分词结构 Considering the price, A do/介词结构 A lives in the B/to do .To pass it, A do / 形容词结构 Anxious for a decision, A do）- 状从
+4.特殊结构 - 并列（省略）/倒装/强调/比较
+5.宾补- driving me mad
 
 
 ## 短语
