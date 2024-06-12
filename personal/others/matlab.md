@@ -34,7 +34,7 @@ fprintf('秦九韶算法得到值为 x=%10d\n',x);
 fprintf('转换函数得到的值为%10d\n',bin2dec(a));
 
 
-## 
+## 2
 2.1 构造差商表有以下方法:
 (1)由左至右，再由下至上地逐渐生成各列:
 (2)由上至下逐渐生成各行.
@@ -106,6 +106,7 @@ y = [0,-30,-36,-35,-28.44,-9.4,0,9.4,28.44,35,36,30,0];
 ybar=[0,0]; 
 t=1:13;
 ti=1:0.25:13;
+
 
 xi=wicker(t,x,ybar,2,ti);
 yi=wicker(t,y,ybar,2,ti);
@@ -192,8 +193,6 @@ end
 
 求系数a。、4 、4、4，使得函数y=a,+a,sinx+a,cosx+ax’为数据表 3.10 的最小二乘
 拟合函数，并画出拟合效果图.
-###
-
 
 h0=figure('Menubar','none','NumberTitle','off','Name','数据点的拟合效果演示', ...
     'Position',[440,234,400,300],'Resize','off');
@@ -211,7 +210,179 @@ u=0:0.1:3.2;
 v=subs(f,'z',u);
 plot(x,y,'*r',u,v,'-k') 
 h=legend('数据点', '拟合曲线'); 
-###
+
+
+
+## 4
+4.3 构造计算1=-“dx近似值的 5x5阶T数表
+
+
+function Romberg
+format long
+a=0;b=1; 
+T=zeros(5,5); 
+h=b-a;k=1;T(k,1)=h*(f(a)+f(b))/2;
+
+while k<5
+
+    H=0;u=h/2;x=a+u;
+    while x<b
+        H=H+f(x);
+        x=x+h;
+    end
+    T(k+1,1)=(T(k,1)+h*H)/2;
+    
+    for m=2:k+1
+        T(k+1,m)=(4^(m-1)*T(k+1,m-1)-T(k,m-1))/(4^(m-1)-1)
+    end
+    
+    k=k+1;h=u;
+end
+
+
+function y=f(x)
+    if x==0
+        y=1;
+    else
+        y=sin(x)/x;
+end
+
+在 MATLAB 命令窗口中，键入Romberg，可得到以下结果:
+T=
+0.920735492404
+0.939793284806 0.946145882274
+
+
+
+## 5
+
+
+```c
+j=0;
+
+
+f=inline('x^41+x^3+1'); 
+fbar=inline('41*x^40+3*x^2'); 
+epsilon=0.5*10^(-8);N=100; 
+for i=1:5 
+    k=0;
+    x0=input('请输入初值 x0='); 
+    f0=f(x0);fbar0=fbar(x0);
+    while 1
+        
+        fprintf('%3d  %9.8f  ',k,x0)
+        
+        j=j+1;
+        if(rem(j,12)==0)
+            fprintf('\n');
+        end
+    if fbar0==0
+        flag =1;
+        break
+    end
+
+    x1=x0-f0/fbar0;
+    k=k+1;
+    if k>N
+        flag=2;
+        break
+    end
+    
+    if(abs(x1-x0)<epsilon)
+        flag=3;
+        break
+    end
+    
+    x0=-x1;
+    f0=f(x0);
+    fbar0=fbar(x0);
+ end
+    
+    switch flag
+    case 1
+        fprintf('导数为零,牛顿法失效!\n')
+    case 2
+        fprintf('迭代超限,牛顿法失效!\n')
+    case 3
+        fprintf('x*=%6.5f\n',x1)
+    end
+end
+```
+点评:方程的根约为-0.9524838752，
+当取x=-10时，仍可用牛顿法求其满足精度要求的近似根，只是迭代次数较大;
+当取x=0时,“导数为零，牛顿法失效”;
+当x=1.6时，“迭代超限，牛顿法失效”;
+当x=1.7,1.8时，迭代是收敛.
+
+这些现象表明，初值的可选集合，不一定构成区间，不同初值使迭代的敛散性不同，即使收敛，收敛速度也不一样.
+
+可见，牛顿法的敛散性对初值的选取太敏感了，
+
+## 6
+
+编写矩阵的 LU 分解程序，并对以下矩阵作LU分解
+
+format rat 
+A=[1,-5,3,-3;3,1,-1,2;-5,1,3,-4;2,0,3,-1];
+ 
+[m,n]=size(A);
+while(m~=n)
+    fprintf('矩阵非方阵，无法进行 LU 分解')
+    break
+end
+
+flag=1; 
+
+for k=1:n
+    d=det(A(1:k,1:k));
+    if d==0
+        fprint('顺序主子式|A%1d|=0,无法进行LU分解\n',k)
+        flag=0;
+        break
+    end
+end
+    
+while(flag==0)
+    break
+end
+
+U(1,1:n)=A(1,1:n);%给出U的第1行
+L(1,1)=1;L(2:n,1)=A(2:n,1)/U(1,1);
+
+for k=2:n
+    for j=k:n
+        U(k,j)=A(k,j);%计算U的第k行
+        for p=1:k-1
+            U(k,j)=U(k,j)-L(k,p)*U(p,j);
+        end
+    end
+    L(k,k)=1;%计算L的第k列
+    if k~=n
+        for i=k+1:n
+            L(i,k)=A(i,k);
+            for p=1:k-1
+                L(i,k)=L(i,k)-L(i,p)*U(p,k);
+            end
+            L(i,k)=L(i,k)/U(k,k);
+        end
+    end
+end
+
+fprintf('下三角阵L为\n')
+disp(L)
+fprintf('上三角阵U为\n')
+disp(U)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
