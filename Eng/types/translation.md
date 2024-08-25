@@ -1,9 +1,13 @@
 
 #
-真题：六级，考研，catti，大英赛
+六级，考研，catti，大英赛
 
 做题-修改-积累
 b站，gpt，
+
+
+
+踩分点
 
 # 结构成分法
 主干成分主谓宾-修饰成分定状补-检查
@@ -21,11 +25,11 @@ b站，gpt，
 
 1.n-:名词性结构（to do/ doing）/名词性从句（主宾表从）
 2.adj-:连字符record-breaking/分词leaves falling from A/介宾A in the B/不定式something to drink/形容词结构a factor critical to A/定从
-3.adv-:分词Considering the price, A do/介宾To pass it,/形容词结构Anxious for a decision, A do）/状从
+3.adv-:形容词结构Anxious for a decision, A do）/分词Considering the price, A do/介宾To pass it,/状从
 4.宾补-:driving me mad
 5.句式特殊结构-:并列（省略）/倒装/强调/比较
 
-
+成分分析
 主语双横线，谓语单横线，宾语波浪线
 定语小括号，状语方括号，补语尖括号
 从句打圈，插入语小三角
@@ -205,11 +209,12 @@ industry and courage勤劳勇敢，
 
 战略政策
 Marxism-Leninism马克思列宁主义，Fascism法西斯主义，hegemonism霸权主义，
-Mao Zendong Thought毛泽东思想，
+Mao Zendong Thought毛泽东思想，materialistic  dialectics唯物辩证法
 Renaissance文艺复兴，Enlightenment启蒙运动，reform and opening-up改革开放，seek common grond while shelving differences求同存异，
 
 举措
-census人口普查,summit forun高峰论坛，gross domestic product国内生产总值，
+census人口普查,poll民意调查投票，
+summit forun高峰论坛，gross domestic product国内生产总值，
 the overall plan总体规划
 regional integration/cooperation/consolidation/convergence/untity地区一体化，a moderately prosperous society小康社会，
 promote the growth of economy促进经济增长，financial deficit财政赤字，anti-dumping反倾销，customs barrier/tariff wall关税壁垒，
@@ -278,7 +283,8 @@ as early as 100 years ago早在100年前，since ancient times自古以来，15k
 it is that,
 climate and other factors，im many fields such as...,，
 
-
+## movie
+first things first我先说吧，先办要紧事。。stash his mistresses藏匿情妇。。i can’t be help我能帮的忙就到这了。。was a bust完全没用。。nothing jump out什么都没有得到。。it’s been for too long太久没见了。。thank you for seeing me at such short notice百忙之中拨冗来见我 。。threw up a red flag引起注意。。word to the wise奉劝你一句。。master’s clear主卧室没人。。rear entry后入口。。went belly-up倒闭。。I was not consulted我毫不知情。。homicide杀人，案件。。we’re the opposite poles of a magnet,we’re repellent to each other我们是磁铁的两极，我们彼此相斥。。i’m beat我累了。。infernal地狱。。attorney律师。。no beef无冤无仇。。can’t have one without the other有票必有车。。yuck脏乱。。take the tube乘坐地铁。。bottom out一蹶不振。。personal valet贴身仆人。。depravity巢穴。。plastic surgery整容手术。。i’d be the opposite of help帮倒忙。。penance自我惩罚。。weirdo怪人。。sort of算是吧。。errand差事。。loathe讨厌。。crooks骗子。。slapper妓女。。condolence哀悼。。relapse复吸。。knock you out砸晕。。slip up出错。。i could burst with pride我深感自豪。。sociopath反社会人士。。in your midst在你们公司。。cunning狡猾。。they pounce升职。。country house别墅。。tune out无视。。colonel上校。。 scissoring each other raw磨镜。。mole内奸。。 be apprehended逮捕。。cuck软蛋。。 sitter保姆。。no one said boo没人表示不满。。plain as pie利润很低。。no shame in having questions不耻下问。。does me no good与我无益。。footage录像。。sucker家伙。。don’t you look stunning你太好看啦。。have two pennies to rub together穷得叮当响。。tulip郁金香。。throw a cheery on top锦上添花。。 no achilles heel软肋。。maker上帝。。
 
 
 

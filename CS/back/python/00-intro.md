@@ -1,49 +1,51 @@
 
-# ipython
 
-## 安装ipython
+变量，数据类型
 
-> `pip`是一个特别有用的包管理工具，相比较`npm`，甚至是Linux下面的`apt`,`pip`优点显而易见
+函数
 
-```
-pip install ipython
-```
-> **ipython是我最喜欢的交互形工具，学习相比较**Linux中的shell甚至是Java中的jshell,node.js中的nodejs，ipython更具有突出性的优点。
+类和对象
 
-### 另一种解决方案
+文件操作
 
- 💘或许你不喜欢`ipython`，或者由于……..这些原因导致你没办法用`ipython`，`python`的交互式也能满足你大部分需求
+异常处理
 
-```python
-C:\Users\smile>py
-Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>> quit()
 
-C:\Users\smile>python
-Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
->>> quit()
-```
 
-## 执行
 
-### 命令行中
 
-正如我们在上一页中所了解的，可以通过直接在命令行中编写来执行 Python 语法：
 
-```python
->>> print("Hello, World!")
-Hello, World!
-```
 
-### 在本页面
 
-或者通过在服务器上创建一个 python 文件，使用 .py 文件扩展名，并在命令行中运行它：
 
-```python
-C:\Users\Your Name>python myfile.py
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 缩进
 

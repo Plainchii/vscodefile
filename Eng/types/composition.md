@@ -1,4 +1,4 @@
-
+# prompt
 题目：why it is unwise to jump to conclusions upon seeing or hearing something. You can give examples to illustrate your point
 
 a.给出大纲以及思路50词
@@ -9,6 +9,17 @@ b.写正文：
 用上现在分词/过去分词/非谓语作定语状语，主/宾从that，后置定语，倒装，虚拟，并列，形式主语，各种从句，同位语句子形式;
 用雅思托福考研六级等高级词汇/连接词/词组/复合词/
 c.给出中文翻译
+
+
+
+
+作文：
+语言：准确，高级
+内容：不跑题，丰富
+结构：引入，分析，总结
+分析：论点，论证，举例
+卷面整洁衡水体
+
 #
 
 ## 规划
