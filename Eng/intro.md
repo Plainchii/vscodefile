@@ -108,6 +108,7 @@ The article starts with the annoucement that Dublin authorities will temporarily
 7强制找出两个答案
 8找到对应原文才能做题
 
+老真题用来练手，新真题用来模拟
 限时
 分析错因，复习，强制找出两个答案
 
@@ -149,14 +150,12 @@ The article starts with the annoucement that Dublin authorities will temporarily
 ##
 
 英一{180顺序
-        
         小作文35
         大作文15
         阅读60
         新题型15
         翻译20
         完型15
-
 }
 
 田静、刘晓燕、王江涛、唐迟、朱伟、何凯文
@@ -179,13 +178,9 @@ BEC,GMAT,SAT，
 雅思托福2000元，有效期几年
 
 
-
-
 四六级：{
 听力：看题：写完作文后（maybe），试音（1m30s），原文开始（10s），directions（35s）2，2，3
 满分710,600,580,550
 }
-
-
 
 英语：模棱两可（浅层思考，不要想太多，考简单原因，不用分析太过），

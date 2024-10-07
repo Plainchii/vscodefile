@@ -35,10 +35,13 @@ converge会聚/malicious恶意，狠/knack技巧，诀窍/wayward任性/undo消�
 
 ## 4
 
+yuck脏乱，depravity巢穴，
 
 
 
 
+## movie
+first things first我先说吧，先办要紧事。。stash his mistresses藏匿情妇。。i can’t be help我能帮的忙就到这了。。was a bust完全没用。。nothing jump out什么都没有得到。。it’s been for too long太久没见了。。thank you for seeing me at such short notice百忙之中拨冗来见我 。。threw up a red flag引起注意。。word to the wise奉劝你一句。。master’s clear主卧室没人。。rear entry后入口。。went belly-up倒闭。。I was not consulted我毫不知情。。homicide杀人，案件。。we’re the opposite poles of a magnet,we’re repellent to each other我们是磁铁的两极，我们彼此相斥。。i’m beat我累了。。infernal地狱。。attorney律师。。no beef无冤无仇。。can’t have one without the other有票必有车。。plastic surgery整容手术。。i’d be the opposite of help帮倒忙。。penance自我惩罚。。weirdo怪人。。sort of算是吧。。errand差事。。loathe讨厌。。crooks骗子。。slapper妓女。。condolence哀悼。。relapse复吸。。knock you out砸晕。。slip up出错。。i could burst with pride我深感自豪。。sociopath反社会人士。。in your midst在你们公司。。cunning狡猾。。they pounce升职。。country house别墅。。tune out无视。。colonel上校。。 scissoring each other raw磨镜。。mole内奸。。 be apprehended逮捕。。cuck软蛋。。 sitter保姆。。no one said boo没人表示不满。。plain as pie利润很低。。no shame in having questions不耻下问。。does me no good与我无益。。footage录像。。sucker家伙。。don’t you look stunning你太好看啦。。have two pennies to rub together穷得叮当响。。tulip郁金香。。throw a cheery on top锦上添花。。 no achilles heel软肋。。maker上帝。。
 
 
 ## rare

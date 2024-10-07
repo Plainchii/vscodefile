@@ -129,6 +129,16 @@ engage in:
 WPE，OD，CE
 Surfingkeys、vim、vim c，Emacs
 
+
+
+## 408
+4科
+DB
+基础知识一轮，梳理知识体系，
+
+40个选择80分，7个大题70分
+
+
 ## 竞赛
 朋友，人脉，code能力，
 

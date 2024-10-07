@@ -1,5 +1,5 @@
 
-#
+# intro
 六级，考研，catti，大英赛
 
 做题-修改-积累
@@ -8,6 +8,18 @@ b站，gpt，
 
 
 踩分点
+
+
+# tact
+直译，意译，增译，略译[Experience a peaceful history经历了一段和平的历史时期（一段时期不翻）]
+联系上下文：不知所云的词语
+
+
+给出“位于A地点以南30公里处“的至少5种表达
+
+分别从常见英语考试（六级专八考研，托福雅思gre，gmat）和政治经济刊物、书籍、新闻上找类似主题、表达方式的短语，并把他们用例句体现
+
+样本：
 
 # 结构成分法
 主干成分主谓宾-修饰成分定状补-检查
@@ -42,23 +54,13 @@ b站，gpt，
     动名词=名名词       
 
 
-#
-直译，意译，增译，略译[Experience a peaceful history经历了一段和平的历史时期（一段时期不翻）]
-联系上下文：不知所云的词语
 
 
-给出“位于A地点以南30公里处“的至少5种表达
-
-分别从常见英语考试（四六级，专四专八，考研英语，托福雅思，gre，gmat）中
-和政治经济刊物、书籍、新闻上找
-
-把他们放在一句话中体现
-
-# 表达积累
+# 固定表达积累
 多方式表达
 
 ## n
-时间
+时间表达
 September 30, 2019
 the 1990s,the early 2000s,the mid-20th century
 the 4th century bc/ad公元前后
@@ -179,84 +181,14 @@ There are hundreds of different styles of Chinese martial arts.Which is the most
 
 
 
-
-# CATTI
-
-
-
-    sea-crossing bridge跨海桥梁，
-    
-    
-   
-
-
-## 地区
-
-
-
-less developed欠发达地区，the Greater Bay area大湾区，Silicon Valley硅谷，
-
-Hong Kong-Zhuhai-Macua Bridge港珠澳大桥，
-
-louvre Museum卢浮宫，
-
-## 政治
-
-One Country Two Systems,20th Party congress二十大,
-
-strong,prosperous,democratic and culturally advanced;
-industry and courage勤劳勇敢，
-
-战略政策
-Marxism-Leninism马克思列宁主义，Fascism法西斯主义，hegemonism霸权主义，
-Mao Zendong Thought毛泽东思想，materialistic  dialectics唯物辩证法
-Renaissance文艺复兴，Enlightenment启蒙运动，reform and opening-up改革开放，seek common grond while shelving differences求同存异，
-
-举措
-census人口普查,poll民意调查投票，
-summit forun高峰论坛，gross domestic product国内生产总值，
-the overall plan总体规划
-regional integration/cooperation/consolidation/convergence/untity地区一体化，a moderately prosperous society小康社会，
-promote the growth of economy促进经济增长，financial deficit财政赤字，anti-dumping反倾销，customs barrier/tariff wall关税壁垒，
-personnel training培养人才，cut down on overstaffing/lay off redundant staff裁减冗员，
-
-## 文化
-
-
-circus show马戏，stunt特技表演，stilt walk踩高跷，skit喜剧小品，pantomime/mine哑剧，monologue comic talk/standup comedy单口相声，witty dialogue comedy/comic cross talk相声，
-
-workmanship/craftsmanship工艺手艺，handicraft手工艺品，sealcutting篆刻，seal图章，rubbing拓片，wood carving木雕，embroidery刺绣，cursive草书，
-
-## 经济
-stagnation滞胀，
-
-
-## 社会
-
-yield substantial results取得丰硕成果，score tremendous achievements取得巨大成就，
-economic prosperity经济繁荣，
-
-extravagance and waste铺张浪费，
-
-Host主机，Local Area Network局域网，pageview点击量，roaming漫游，
-## 身份
-The general public群众，
-postgraduate,undergraduate,Certificate of Completion结业证书，Certificate of Graduation毕业证书，
-
-Napoleon拿破仑，Nicolas Copernicus尼古拉哥白尼，Kepler开普勒，Bill Gates比尔盖茨，Shakespeare莎士比亚，Elizabeth伊丽莎白，Beethoven贝多芬，Aristotle亚里士多德，Darwin达尔文
-
-
-
-# 积累词
+# 词义积累
 
 enhance，improve提升，
 "...",he concluded.
 Gain increasing importance日益重要，
 
 n:
-plateau高原，diversity多样性，canyon峡谷，birthplace发祥地，sculpture、craving雕刻，household家庭，headquarters总部，typeface字体，craftsmanship制作工艺，tomb陵墓，gardens园林，architect建筑师，Palace Museum故宫，great wall长城，The forbidden city紫禁城，emperor皇帝，the count朝廷，anecdote轶事，slope坡度,developed into hubs枢纽中心,snowmelt积雪融水,urbanization城市化，deadlock 僵局，epicenter震中，statistical data数据，volume量，animation动漫，posterity后人，site工地，live quality生活质量，
-
-Chinese Zodiac十二生肖，green car新能源汽车，Chinese character汉字，high-speed railway 高铁，postgraduate研究生，We-media自媒体，carbon peak 碳达峰，title称号,rainwater雨水,e-currency 电子货币，the Belt and Road Initiative一带一路，a community with shared future for humanity人类命运共同体，40 years of reform and opening up改革开放四十周年，the Chinese Dream中国梦，national defense国防，people's livelihood民生，low-carbon cities低碳城市，intangible cultural heritage非物质文化遗产，Gross Domestic Product国内生产总值，river snails rice noodle螺蛳粉，river snails rice noodle螺蛳粉，digital economy数字经济，sustainable development可持续发展，meal kits 料理包，food additives 食品添加剂，pre-cooked food 预制菜，the 24 solar terms二十四节气，employment rate就业率，civil servant 公务员，face recognition人脸识别，cashless payment无现金支付，live streaming直播，face scan payment扫脸支付，craftsmanship spirit工匠精神，targeted poverty alleviation 精准扶贫，tourism off-season旅游淡季，academic misconduct 学术不端，
+diversity多样性，birthplace发祥地，household家庭，headquarters总部，emperor皇帝，the count朝廷，gardens园林，tomb陵墓，site工地，anecdote轶事，snowmelt积雪融水,deadlock僵局，epicenter震中，volume量，animation动漫，posterity后人，live quality生活质量，title称号,rainwater雨水,，craftsmanship spirit工匠精神，tourism off-season旅游淡季，typeface字体，craftsmanship制作工艺，
 
 adj:
 unique独特，uniquence独特性，featured 以特色，industrious勤劳，prominent重要,ecological生态,droughty干旱,outstand出色，recreational休闲，record-breaking破纪录，
@@ -268,7 +200,7 @@ v:
 launched建于
 
 phrase:
-total area总面积，square kilometers平方公里，farming industry农耕业,qin dynasty，floor area建筑面积，chaoyang district朝阳区，implement of strategy战略实施，yellow river黄河，yangtze river长江，tourist attractions旅游景点，the year of 2011 年，water conservancy system水利系统,human civilization人类文明,personnel exchanges人员往来,population aging 人口老龄化，socialism with Chinese characteristics 中国特色社会主义，weight loss减肥,give a like点赞，a high rank位居前列，silk fabrics丝织品，urban residents城市居民，local government地方政府，fitness equipment健身器械，maintenance of piece维护和平，diplomatic mission出使，brave hardships不畏艰险，
+total area总面积，square kilometers平方公里，farming industry农耕业,qin dynasty，floor area建筑面积，chaoyang district朝阳区，implement of strategy战略实施，tourist attractions旅游景点，the year of 2011 年，water conservancy system水利系统,human civilization人类文明,personnel exchanges人员往来,population aging 人口老龄化，weight loss减肥,give a like点赞，a high rank位居前列，silk fabrics丝织品，urban residents城市居民，local government地方政府，fitness equipment健身器械，maintenance of piece维护和平，diplomatic mission出使，brave hardships不畏艰险，
 
 alongside calligraphy与书法并列，from...to...从、到，ranging...from...，upon doing在之后，for the first time首次，through the ages长久以来
 
@@ -283,12 +215,147 @@ as early as 100 years ago早在100年前，since ancient times自古以来，15k
 it is that,
 climate and other factors，im many fields such as...,，
 
-## movie
-first things first我先说吧，先办要紧事。。stash his mistresses藏匿情妇。。i can’t be help我能帮的忙就到这了。。was a bust完全没用。。nothing jump out什么都没有得到。。it’s been for too long太久没见了。。thank you for seeing me at such short notice百忙之中拨冗来见我 。。threw up a red flag引起注意。。word to the wise奉劝你一句。。master’s clear主卧室没人。。rear entry后入口。。went belly-up倒闭。。I was not consulted我毫不知情。。homicide杀人，案件。。we’re the opposite poles of a magnet,we’re repellent to each other我们是磁铁的两极，我们彼此相斥。。i’m beat我累了。。infernal地狱。。attorney律师。。no beef无冤无仇。。can’t have one without the other有票必有车。。yuck脏乱。。take the tube乘坐地铁。。bottom out一蹶不振。。personal valet贴身仆人。。depravity巢穴。。plastic surgery整容手术。。i’d be the opposite of help帮倒忙。。penance自我惩罚。。weirdo怪人。。sort of算是吧。。errand差事。。loathe讨厌。。crooks骗子。。slapper妓女。。condolence哀悼。。relapse复吸。。knock you out砸晕。。slip up出错。。i could burst with pride我深感自豪。。sociopath反社会人士。。in your midst在你们公司。。cunning狡猾。。they pounce升职。。country house别墅。。tune out无视。。colonel上校。。 scissoring each other raw磨镜。。mole内奸。。 be apprehended逮捕。。cuck软蛋。。 sitter保姆。。no one said boo没人表示不满。。plain as pie利润很低。。no shame in having questions不耻下问。。does me no good与我无益。。footage录像。。sucker家伙。。don’t you look stunning你太好看啦。。have two pennies to rub together穷得叮当响。。tulip郁金香。。throw a cheery on top锦上添花。。 no achilles heel软肋。。maker上帝。。
 
 
 
-## 短语
+# 词汇积累
+Military-Industry Complex军工复合体，
+Paleolithic旧石器时代，
+annual review年报， 
+
+## 身份
+---时期
+toddler学步，juvenile少年，undergraduate,postgraduate,transcript成绩单，Certificate of Completion结业证书，Certificate of Graduation毕业证书，degree certificate学位证书，diploma文凭，
+
+
+
+---人物
+Hermes赫尔墨斯，Napoleon拿破仑，Elizabeth伊丽莎白，Nicolas Copernicus尼古拉哥白尼，Kepler开普勒，Aristotle亚里士多德，Darwin达尔文，Beethoven贝多芬，Shakespeare莎士比亚，Bill Gates比尔盖茨，Mencius孟子
+
+
+The general public群众，netizen网民，posterity后代后人，
+
+---官
+baron贵族男爵，aristocracy贵族，elite,celebrity,secretary国务卿部长，deputy副手议员，senator参议员，councilor议员顾问，diplomat外交官，marshal,minister，mayor,magistrate地方治安法官,officials官员，civil servant 公务员，
+---军
+general将军，lieutenant中尉，ambassador大使，courier信使导游，envoy使者，chief,martyr烈士，
+navy，air force，marine，unit部队，troop，force，corps，army军，division师，brigade旅，regiment团，battalion营，company连，platoon排，squad小队，detachment分遣队，engagement交战，logistics后勤，
+---教
+sage贤人，monk和尚，nun修女尼姑，pope主教，cleric牧师，curate副牧师，missionary传教士，pilgrim朝圣者，
+---文
+dean主任院长，mentor导师，academician学者，solicitor律师，attorney代理人辩护律师，counselor顾问，essayist散文家，
+---工农牧商医
+electrician电工，mechanic机械师，architect建筑师，blacksmith铁匠，artisan工匠，carpenter木匠，acrobat杂技，zany小丑，clown小丑，referee裁判，alchemist炼金术师，peasant农民，rancher农场主，butcher屠夫，
+accountant会计，vendor小贩，vender小贩，peddler小贩，stockbroker股票经纪人，
+veterinarian兽医，pediatrician儿科医生，orthopedist整形医生，
+vagrant流浪，loafer游荡者,tramp乞丐,mendicant乞丐，burglar窃贼，sneak小偷，knave流氓，villain坏人，miscreant恶棍，thug暴徒恶棍，bandit土匪歹徒，minion走狗，culprit罪犯，
+freelance自由职业者，bachelor单身汉，patron赞助顾客，
+
+
+
+团体：faculty,
+militant激进，
+democrat民主主义者，imperialism帝国主义，authoritarian独裁主义者，
+doctrine-doctrinairism-jndoctrinaire教条主义者，
+empirical-empiricist-empiricism-empirientialism经验主义
+eclectic-eclectism折中，cynicism愤世嫉俗犬儒主义，mysticism神秘主义
+environmentalist环保人士，vegetarian素食，anti-semitism反犹太主义，
+LGBT:sadism虐待，masochism受虐，
+
+## 地区
+
+yellow river黄河，yangtze river长江，Rockies落基山脉，the European Union欧盟
+developed into hubs枢纽中心,
+sea-crossing bridge跨海桥梁，Hong Kong-Zhuhai-Macua Bridge港珠澳大桥，
+louvre Museum卢浮宫，Palace Museum故宫，great wall长城，The forbidden city紫禁城，
+less developed欠发达地区，the Greater Bay area大湾区，Silicon Valley硅谷，
+
+
+## 政治
+
+---思想
+Marxism-Leninism马克思列宁主义，Fascism法西斯主义，hegemonism霸权主义，socialism with Chinese characteristics 中国特色社会主义，
+Mao Zendong Thought毛泽东思想，materialistic  dialectics唯物辩证法
+---精神
+strong,prosperous,democratic and culturally advanced;
+industry and courage勤劳勇敢，
+---
+votary支持者，electorate选民，contingent代表团，constituency选区，
+
+labour union工会
+
+---会议
+20th Party congress二十大,summit forun高峰论坛，
+
+---政策
+Renaissance文艺复兴，Enlightenment启蒙运动，40 years of reform and opening up改革开放四十周年， One Country Two Systems,seek common grond while shelving differences求同存异，
+
+---举措
+the overall plan总体规划，the Chinese Dream中国梦，
+promote the growth of economy促进经济增长，sustainable development可持续发展，regional integration/cooperation/consolidation/convergence/untity地区一体化，a moderately prosperous society小康社会，targeted poverty alleviation 精准扶贫，
+a community with shared future for humanity人类命运共同体，the Belt and Road Initiative一带一路，carbon peak 碳达峰，
+financial deficit财政赤字，anti-dumping反倾销，customs barrier/tariff wall关税壁垒，
+
+personnel training培养人才，cut down on overstaffing/lay off redundant staff裁减冗员，
+
+census人口普查,poll民意调查投票，
+
+
+## 军事
+national defense国防，
+an international ballistic missile洲际弹道导弹
+## 文化
+
+circus show马戏，stunt特技表演，stilt walk踩高跷，skit喜剧小品，pantomime/mine哑剧，monologue comic talk/standup comedy单口相声，witty dialogue comedy/comic cross talk相声，
+
+intangible cultural heritage非物质文化遗产，Chinese character汉字，Chinese Zodiac十二生肖，the 24 solar terms二十四节气，workmanship/craftsmanship工艺手艺，handicraft手工艺品，sealcutting篆刻，seal图章，rubbing拓片，wood carving木雕，sculpture、embroidery刺绣，cursive草书，
+
+
+Analects论语,The Book of changes易经
+
+
+river snails rice noodle螺蛳粉，
+
+## 社会
+genocide种族灭绝
+
+urbanization城市化，
+low-carbon cities低碳城市，
+yield substantial results取得丰硕成果，score tremendous achievements取得巨大成就，
+economic prosperity经济繁荣，
+
+extravagance and waste铺张浪费，
+people's livelihood民生，pre-cooked food 预制菜，meal kits 料理包，food additives 食品添加剂，
+employment rate就业率，
+
+videoconference（teaching 线上教学）/virtual classrooms/cyberspace 网络/online instruction 视频会议,brick and mortar campuses /conventional classes/real-world campuses实体教室线下教学,academic misconduct 学术不端，
+## 经济
+
+gross domestic product国内生产总值，
+stagnation滞胀，
+digital economy数字经济，e-currency 电子货币，
+
+中美贸易战 China/Sino - US trade war/dispute/friction/row争端（set off the row）。。
+
+## 科技
+statistical data数据，
+silicon chip硅片，green car新能源汽车，
+face recognition人脸识别，face scan payment扫脸支付，cashless payment无现金支付，live streaming直播，We-media自媒体，
+Host主机，Local Area Network局域网，pageview点击量，roaming漫游，
+
+
+## 法律
+
+absolve赦免，corroborate证实，convict有罪，sentence判决，decree法令判决，refute驳斥，
+
+
+
+
+
+
+
+
+# 短语
 偏正：高山{
 n+n:
 a+n:文学作品literary compositions
