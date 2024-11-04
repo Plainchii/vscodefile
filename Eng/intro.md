@@ -1,20 +1,18 @@
 
 # column
-{
-        听说读写
-        文化，tiktok/youtube/reddit/x,
-        foundament:字语法，词汇，词组，句式，修辞，
-        types:听力，单选，选词填空，改错，长难句，阅读，翻译，写作，
-        费曼,记忆
-}
 
 
 
+foundament:词汇，词组，句式，修辞，
+types:选词填空，改错，长难句，
+费曼
+文化，
+tiktok/youtube/reddit/x,
 
 ## basis
 
 母语思维：{
-**把英语融入生活：把能用中文形容的都转换成英文**
+
 英语思维（方式，逻辑，），
 英释义，英语境，例句，
 用英语复述，跟读，熟能生巧，
@@ -22,42 +20,73 @@
 特定场景主题学习，
 }
 
-语法：{
-专四语法专练
-视频+大纲
-ytb
-复习常见语法
+english environment:{
+switch everything into english
+learn new things in english to avoid translation
+entertainment in english:book,video,
+use a prop:things keep your english condition(Rp accent)
+
+}
+
+think:{
+idle thinking:it's raining outside
+reflective thinking:I need to make a plan
 
 
-谓语是核心，
-句+conjection+句
 
-主谓宾定状补
-主改被：A revival of the timber industry is needed. 木材工业需要复兴。
-定语：过去分词，现在分词，词组（a handful of）,adj
-表动作：do / is adj to do / n. /
-动谓-名； It形式； 从句； 分词作语 ； 词组，短语 ； 不定式加长； 
-V:+ that /  It is v-ed that / ...to do / 介 + sth / 
+make opinions:What an awful car! That was digusting.
+
+have ideas:I think I'll go to the gym.--I'd love to go to New York!--Why don't I do this?
+
+take questions and find solutions:where can I find the data?--This is too hard for me.--I should ask someone for help.--I'm going to do more excersize.
+
+Talking to yourself:-What time is it?--I need to get up,I got things to do.--Never mind,just two more minutes.
 }
 
 
-读：
-{
-外刊
+语法：{}
+
+听说：{}
+
+读：{
+可理解输入:comprehensive,interesting,reading，i+1
+
+genre:enjoyable,comments on amazon,graded reader
+
+take notes,do falshcards，review,
+
+comic book:
+
+I Am NOt Going to Get up Today-Dr.Seuss
+The advantures of Tintin
+Where the sidewalk ends
+minecraft
+
+
+webtoon：
+rebirth
+
+
+anime：
+SpongeBaby
+
+
+外刊：
 单刀直入，同义多词，转折明显（1.but/2.while/3.ago/4.fortunately）,抛砖引玉
 
 主题：经济、教育、文化、社会、科技发展，
 《卫报》、《华盛顿邮报》、《经济学人》、《金融时报》、《基督教科学箴言报》《纽约时报》《新闻周刊》《时代周刊》
-小说：福尔摩斯，哈利波特，
 时效性强，与时俱进，
 背景文化知识认识世界，
+
+小说：福尔摩斯，哈利波特，
 
 通读-精读-通读
 用英语思维读
 仿照写一篇，运用
 
-语法，词，词组，搭配，长难句:语感，重复
 
+news{
 picture description:
 main character,activity,location/time[format :ww dd mm],
 
@@ -82,9 +111,16 @@ comment
 The article starts with the annoucement that Dublin authorities will temporarily shut down the live video portal due to unruly behavior.It explains the reasons behind the shutdown and the efforts to find a technical solution.The article provides details about the Portal art installation,including its origin and location.It mentions the positive and negtive behaviour observed,highlighting the controversy and public reaction.The piece concludes by discussing the potential impact on Ireland's image and tourism.The sctructure is logial,moving from the annoucement to detailed descriptions and ending with broader implications.
 }
 
+}
+
+
+
 
 写：
 {
+diary
+
+
 花体：笔记
 
 文章
@@ -92,60 +128,55 @@ The article starts with the annoucement that Dublin authorities will temporarily
 造句，段：增（加上第一次没想到的），改，润（更换）
 }
 
-## types
-
-通法：
-理解题目文章：准确理解中心句/首尾/关键词，定性（褒贬情感动作态度），
-翻不出来：联系中心句/首尾/关键词（了解文章大意），联系上下文，猜测（也许是上文近义词，），给出一个大致意思，
-题目总结/解题方法
-通法：别读边归类，在段落提一个关键到外面
-1概括大意（全文，片段），梳理行文结构：总分总、时间，重点理解中心句首尾句
-2感情态度立场：褒贬中，
-3逻辑关系：因果，转折，对比，类比，举例，解释，并列，递进，条件，让步，目的，假设，选择
-4关键词，全文线索，段间线索，【文首末，段首末，转折处】，【数字，时间，生词，专有名词,比较最高级，逻辑】
-5上下文
-6猜测综合以上
-7强制找出两个答案
-8找到对应原文才能做题
-
-老真题用来练手，新真题用来模拟
-限时
-分析错因，复习，强制找出两个答案
-
-明确全文大意（略读，只需笼统概括，梳理文章脉络），明确作者感情--选项（精读），联系附近前后文大意、感情、关键词，分析此处逻辑关系，强制找出两个选项，
-
-做题顺序
-考前练手找找感觉，
-
-专有名词：人名，地名，公司机构，学校
+## 记忆
 
 
+记忆曲线：0.5235916，
+方法{
+    一天N个，快速写一遍，（两词离远一点），每N个从头复习，没记住的作记号，额外记，最后复习一遍
+    照着大纲挨个背，不熟悉的写下来，写一个就把所有写过的复习一遍
 
-完型：
-阅读：关键词（人名），人物of机构学校公司一律划去，脉络（首段提出问题现象，接着剖析原因，介绍故事，展望未来，指出意义）
-翻译：见docx
-15选10：
-定词性
+        {
+        定性：会用or看懂
+        读：大声，音节
+        英英>中英
+        N次瞬时记忆
+        具象联想情感 
+        变形同近反义词词组例句
+        造例句，再对比官方例句
+        词根词缀：查相关词根
+        N次瞬时记忆
+        补充
+    }
+}
 
-匹配题：
-选项关键词+段落首尾中心句
+1.音节，谐音，中英释义，一词多义，
+2.时态语态各词性，词源词根词缀，同近反义词，
+3.词组，固定搭配,例句，
 
-读题，
-关键词，意思
-匹配
+给每一个单词找一个特定的最容易的记忆方法，(词根，词缀)
+
+重复法：N次瞬时记忆
+
+谐音法：verge我急，mammal哺乳动物（妈妈），surly(失礼)暴躁，粗暴无礼dune（土墩）沙丘【】solar（熟了）太阳能的
+
+词根词缀
+拆词:bulletin在子弹里发现公告，glove哥哥爱手套，detour得旅行绕弯路，infant 婴儿在（in）饭（fan）桶（t）里
+单词象形法:根据字母形状，排列，block街区大门有6把锁，shell她捡到11个贝壳，
+
+课堂法：youtube搜
+多义词：将意思串起来（tough在艰难中坚持），
+具象法：图像，动作，场景
+联想法：语义转化为自我理解，screener过滤掩护（板子隔住，挡住的感觉）outskirt郊区联想成裙子般的城市地图边缘，
+情感法：menace恐惧感，verge我急濒临边缘恐怖，
+
+类比发散法：同义词组，
+结合法：词组，搭配，和别的单词一起记
+以熟记生法:bloom-gloom，name-nomin
+
+不好记的加强记:language懒得和语言有瓜葛
 
 
-小标题：
-选项精确翻译，短文关键词
-
-
-长难句:找主干
-翻译:拆（粗细，主干修饰），译（直/巧译），调（整理，检查）【谓语注意时态】
-
-主干+修饰
-在主句各部分前停止，向后找修饰语再往下走，receive compensate for the disruption they have suffered.
-分清楚修饰语对应修饰的是哪个成分，
-词意，语序， 
 
 ##
 

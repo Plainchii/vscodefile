@@ -1,5 +1,27 @@
 
-### phrase
+
+###
+易混
+revelation揭露/
+易忘
+phenomenon,quarrel with,optimistic,sovereign(sover-reign),statistics,alcohol,surgeon,aisle,probably,pierce,amateur,questionnaire，wretched，athlete，panorama，conscious意识， entrepreneur 企业家，承包人 / 
+
+模糊
+deem,contemplate思虑,meditate,ponder思索,panorama,gauge测量,dispense分配,challenge
+
+无pl
+imformation，accuracy,equipment,furniture,knowledge,
+
+易混
+sensible,sensitive,staff员工，stuff物品，
+
+### adjacent pairs
+--How's it going?
+--fine.
+
+
+
+### phrase/collocation
 way of life,plastic surgery整容手术，road rage路怒症,fence sitter墙头草,personal valet贴身仆人，
 
 home appliances家用电器
@@ -12,6 +34,8 @@ nice in temperament性情很好,kissed by fortune幸运眷顾，bottom out一蹶
 
 sail round航海,take the tube乘地铁，transfer the blame to，
 be expressive of joy表达快乐，get on board同意。in touch with,bully for you羡慕，嘲讽，massacre of innocents滥杀无辜，
+follow suit跟着做
+
 
 Flags hang at half-mast
 

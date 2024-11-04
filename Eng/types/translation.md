@@ -230,7 +230,7 @@ toddler学步，juvenile少年，undergraduate,postgraduate,transcript成绩单�
 
 
 ---人物
-Hermes赫尔墨斯，Napoleon拿破仑，Elizabeth伊丽莎白，Nicolas Copernicus尼古拉哥白尼，Kepler开普勒，Aristotle亚里士多德，Darwin达尔文，Beethoven贝多芬，Shakespeare莎士比亚，Bill Gates比尔盖茨，Mencius孟子
+Hermes赫尔墨斯，Napoleon拿破仑，Elizabeth伊丽莎白，Nicolas Copernicus尼古拉哥白尼，Kepler开普勒，Aristotle亚里士多德，Darwin达尔文，Beethoven贝多芬，Shakespeare莎士比亚，Bill Gates比尔盖茨，Mencius孟子，Confucius孔子，
 
 
 The general public群众，netizen网民，posterity后代后人，
@@ -264,6 +264,7 @@ LGBT:sadism虐待，masochism受虐，
 
 ## 地区
 
+Cape horn好望角，
 yellow river黄河，yangtze river长江，Rockies落基山脉，the European Union欧盟
 developed into hubs枢纽中心,
 sea-crossing bridge跨海桥梁，Hong Kong-Zhuhai-Macua Bridge港珠澳大桥，
@@ -271,7 +272,7 @@ louvre Museum卢浮宫，Palace Museum故宫，great wall长城，The forbidden 
 less developed欠发达地区，the Greater Bay area大湾区，Silicon Valley硅谷，
 
 
-## 政治
+## politics
 
 ---思想
 Marxism-Leninism马克思列宁主义，Fascism法西斯主义，hegemonism霸权主义，socialism with Chinese characteristics 中国特色社会主义，
@@ -279,7 +280,8 @@ Mao Zendong Thought毛泽东思想，materialistic  dialectics唯物辩证法
 ---精神
 strong,prosperous,democratic and culturally advanced;
 industry and courage勤劳勇敢，
----
+
+---选举
 votary支持者，electorate选民，contingent代表团，constituency选区，
 
 labour union工会
@@ -300,18 +302,17 @@ personnel training培养人才，cut down on overstaffing/lay off redundant staf
 
 census人口普查,poll民意调查投票，
 
-
-## 军事
+## military
 national defense国防，
-an international ballistic missile洲际弹道导弹
-## 文化
+
+## culture
 
 circus show马戏，stunt特技表演，stilt walk踩高跷，skit喜剧小品，pantomime/mine哑剧，monologue comic talk/standup comedy单口相声，witty dialogue comedy/comic cross talk相声，
 
 intangible cultural heritage非物质文化遗产，Chinese character汉字，Chinese Zodiac十二生肖，the 24 solar terms二十四节气，workmanship/craftsmanship工艺手艺，handicraft手工艺品，sealcutting篆刻，seal图章，rubbing拓片，wood carving木雕，sculpture、embroidery刺绣，cursive草书，
 
 
-Analects论语,The Book of changes易经
+Analects论语,The Book of changes易经，encyclopedia百科全书，
 
 
 river snails rice noodle螺蛳粉，
@@ -336,6 +337,9 @@ stagnation滞胀，
 digital economy数字经济，e-currency 电子货币，
 
 中美贸易战 China/Sino - US trade war/dispute/friction/row争端（set off the row）。。
+
+limited liability company有限责任公司
+
 
 ## 科技
 statistical data数据，
