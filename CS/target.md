@@ -1,3 +1,10 @@
+都说了，想学java，就得学
+Mysql,JDBC,spring,springmvc,springboot, myb atis,mybatisplus,springcloud,redis,rabbitmq,ro cketmg,kafka (三个会一个就行)，JUC,JVM,再会点nginx，linux,docket等更好，还有数据结构，算法，计算机网络，操作系统，设计模式，然后再做至少两个项目。然后背几万字八股文，刷**至少200道，疯狂投简历，面试，拷打。能坚持下来都学会就进大厂，坚持不下来，小厂3500。
+
+
+
+
+
 ## selective task
 - 编程，调试，应用部署，数据维护，收集反馈，编码标准，代码审查，源代码控制，构建过程，测试，操作，软件开发生命周期，
 
