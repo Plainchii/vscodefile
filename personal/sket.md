@@ -49,7 +49,227 @@
 国式现代化，不仅是一项国家工程，更是一场全民共建的社会实践。它写在河边小路上，也刻在历史巨变中；它关乎未来方向，也回应当下生活。我们相信，正因为有文明的厚土、人民的力量、国家的智慧，中国式现代化这条路，必将走得更稳、更远，并为全球发展提供更多中国智慧与中国方案。
 
 
+abdicate,abdicate adornment,advisory advisory allot ancestry aristocratic banns biographerbi biophila bio medical bodily bribery bureaucrat ceremonial characterication citizenry citizenship claimant commonality courageous constitutional courtship critique crushingly enrage enviable envision disruptive excavation excessively explicatory electronics egregiously embodiment fal flagship feverish falsehood foe foresight  fortnightly framer futurologist genome glowingly gratification groom hardineinpinging  inexorable inferiority infirm intermarriage interpersional interplay interprovincial intranet initiation innate innermost insider insidious instantaneously instill 
 
+```python
+××公司××分析
+一、公司基本情况介绍
+本段用文字简单描述分析对象的基本情况，并说明本文将对分析对象的哪些指标进行分析。（比如：珠海格力电器股份有限公司，股票简称，股票代码）
+根据上述要求对伊利公司进行数据分析，数据要跟存货周转率（销货成本除以平均存货余额），资产负债率（期末负债总额除以资产总额）有关；精确到小数点后7，8位
+
+收集数据（找到公司的数据公告）上网查询财务数据
+
+
+二、运用代码创建表格
+-创建gl_balance
+CREATE TABLE gl_balance(end_date DATE NOT NULL PRIMARY KEY,
+                          assets DECIMAL(14,2),
+                           liabilities DECIMAL(14,2));
+
+-向gl_balance表插入数据
+INSERT INTO gl_balance VALUES(‘2022-12-31’,355024758878.82,253148710864.63),
+(‘2023-12-31’,368053902576.37,247407749159.93);
+
+-得到表格
+
+三、运用代码计算财务指标
+资产负债率,存货周转率
+SELECT end_date,liabilities/assets AS debt_asset_ratio FROM gl_balance;///资产负债率
+
+
+四、从列表中读取数据进行可视化
+import matplotlib.pylot as plt
+import pandas as pd
+plt.rcParams[‘font.family’]=’SimHei’
+plt.rcParams[‘axes.unicode_minus’]=False
+plt.figure(figsize=(8,6))
+x=[‘2022-12-31’,’2023-12-31’]
+y=[0.7130,0.6722]
+plt.plot(x,y)
+plt.xlabel(‘时间’)
+plt.ylabel(‘资产负债率’)
+plt.title(‘格力电器2022-2023年资产负债率折线图’)
+plt.show()
+运行结果如图
+
+
+五、结论分析（用文字对结果进行分析）
+
+```
+
+2022年年度报告-合并资产负债表-页数（83/261）
+
+2022年12月31日——————2021年12月31日
+资产总计 130,965,302,299.22——————101,962,339,842.65 
+负债合计 76,822,199,099.56——————53,171,321,535.65 
+
+
+2023年年度报告-合并资产负债表-页数（80/261）
+
+2023年12月31日——————2022年12月31日 
+资产总计151,620,252,657.98——————130,965,302,299.22
+负债合计94,299,895,215.57——————76,822,199,099.56
+
+按照例子的格式，给出伊利公司的，数据我已给你了，给出资产负债率
+
+
+
+
+
+
+
+合并利润表,页数（84/261）
+2023年度 /2022年度 
+营业总成本1113,944,277,809.29 /112,678,337,180.61
+
+
+
+
+伊利公司财务数据分析报告
+
+一、公司基本情况介绍
+内蒙古伊利实业集团股份有限公司（股票简称：伊利股份，股票代码：600887.SH）是中国领先的乳制品生产企业，主营业务包括液态奶、奶粉、酸奶、冷饮等产品的生产和销售。
+
+本文将对伊利公司的以下财务指标进行分析：资产负债率（期末负债总额 ÷ 资产总额）
+
+数据来源：伊利股份2022年及2023年年度报告（巨潮资讯网）。
+
+二、运用代码创建表格
+1.创建 gl_balance 表（存储资产负债表数据）
+
+CREATE TABLE gl_balance (
+    end_date DATE NOT NULL PRIMARY KEY,
+    assets DECIMAL(14, 2),
+    liabilities DECIMAL(14, 2)
+);
+
+2.向 gl_balance 表插入伊利公司数据
+
+INSERT INTO gl_balance VALUES
+('2022-12-31', 130965302299.22, 76822199099.56),
+('2023-12-31', 151620252657.98, 94299895215.57);
+
+三、运用代码计算财务指标
+
+计算资产负债率
+SELECT 
+    end_date,
+    liabilities / assets AS debt_asset_ratio 
+FROM gl_balance;
+
+运行结果：
+end_date	debt_asset_ratio (资产负债率)
+2022-12-31	0.58656723
+2023-12-31	0.62196311
+
+
+四、数据可视化（资产负债率折线图）
+
+import matplotlib.pyplot as plt
+import pandas as pd
+
+plt.rcParams['font.family'] = 'SimHei'  # 设置中文字体
+plt.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题
+
+plt.figure(figsize=(8, 6))
+x = ['2022-12-31', '2023-12-31']
+y = [0.58656723, 0.62196311]  # 资产负债率
+
+plt.plot(x, y, marker='o', linestyle='-', color='blue')
+plt.xlabel('时间')
+plt.ylabel('资产负债率')
+plt.title('伊利股份2022-2023年资产负债率趋势')
+plt.grid(True)
+plt.show()
+
+折线图显示伊利公司资产负债率从 58.66% 上升至 62.20%
+
+
+五、结论分析
+资产负债率变化：
+
+2022年：58.66%
+
+2023年：62.20%
+
+趋势：2023年资产负债率较2022年上升 3.54个百分点，表明公司负债规模有所增加，可能由于扩大投资或融资活动导致。
+
+财务健康度：
+
+资产负债率在 60% 左右，属于合理范围，但仍需关注负债增长是否影响长期偿债能力。
+
+建议：
+
+结合 存货周转率（需额外计算）分析营运效率。
+
+关注未来负债结构变化，避免财务杠杆过高。
+
+
+
+# 钢结构
+设计步骤
+根据建筑功能要求确定结构形式，结构布置及其尺寸，
+初步确定结构构件形式及其尺寸
+荷载汇集及其组合
+内力分析及计算
+截面设计及其计算
+构件链接计算及设计
+柱脚及基础设计
+
+屋盖支撑
+上弦横向水平支撑，必须设置，房屋两端，第一个柱间第二个
+下限横向水平支撑，上弦处同一柱间
+垂直支撑
+纵向水平支撑屋架下弦短接出
+系杆屋脊及两端，跨中及两端
+
+抗震性能好，钢材弹塑性性能好，较好延性
+有效使用面积高，截面面积小，
+建造速度快，构件制造工业化，平面例题作业，施工作业面宽敞
+自重轻强度高，吊装，运输费用，
+防火性能差
+
+柱间支撑
+每列柱必须设置
+上层柱间支撑设置在下层柱间支撑的柱间，在每个温度区段两端
+下层柱间支撑设置在温度区段中部
+高烈度区，和温度段较长，增设
+每列柱顶设置刚性系杆
+
+柱网布置
+工艺，生产工艺流程，预期扩建，工艺设备更新需求
+结构：强度刚度稳定性
+经济，综合分析效应最佳
+柱间，统一模数化，统一化规则
+
+钢架柱：截面构造，高厚比宽厚比，面内外稳定，强度
+钢架梁，截面构造高厚比宽厚比，面外稳定，强度
+
+荷载组合
+1.3恒+1.5屋面均布活，雪灰，施工检修集中荷载，风荷载，
+风吸，风压
+
+强度及稳定性
+风压强度，风吸强度和整体稳定
+
+变形，小于坡度110第二项忽略
+不可忽略
+
+垂直屋面挠度
+水平和垂直挠度
+
+#
+
+开头段
+In an era characterized by [rapid technological advancement], [digital literacy] has become an essential competency. It's of great necessity for individuals to [cultivate digital skills].
+
+In the first place,there is no doubt that [digital literacy enhances productivity and efficiency].Based on big data, most ____(successful social elites/professors) admitted that they've spent 2/3 of their time____(utilizing digital tools and platforms to perform their tasks.)
+
+Moreover, no one can deny that ____(digital literacy opens up numerous opportunities for career advancement).Where there is ____, there is ____(Where there is Internet, there are accesses to online courses).
+
+Last but not least, I firmly believe that ____(digital literacy fosters lifelong learning and adaptability).The more ____,the more ____(The more digitally literate you are, the more capable you are of embracing new technologies and adapting to changes).
+
+In conclusion,[digital literacy] is essential for us to success in today's world.
 
 
 
